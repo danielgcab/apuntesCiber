@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "3b745817c51312e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7af0215da3facfb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cba0bcf5b1ccef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EJPT/5. Escalada privilegios/Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ca9a2ce7f071d8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0622b24a9d848b35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2e973434476778",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "858e96594ed01d6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9442395e75d0d98e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9cf92bcdccf7f6db",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f3b3c179e65c6d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1ce8b686e23fbd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EJPT/5. Escalada privilegios/Windows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de3fdebb650ff557",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EJPT/5. Escalada privilegios/Windows.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af911a71c392e391",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "828a57585f9bc67a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EJPT/5. Escalada privilegios/Windows.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3cba0bcf5b1ccef6",
+  "lastOpenFiles": [
+    "EJPT/5. Escalada privilegios/Linux.md",
+    "EJPT/5. Escalada privilegios/Windows.md",
+    "Pasted image 20240511165147.png",
+    "Pasted image 20240511165044.png",
+    "EJPT/4. Exploit/Shells/Web Shell.md",
+    "EJPT/5. Escalada privilegios",
+    "EJPT/Sin título.md",
+    "EJPT/4. Exploit/File Transfer.md",
+    "EJPT/4. Exploit/Metasploit.md",
+    "EJPT/4. Exploit/Shells/Bind Shell.md",
+    "EJPT/4. Exploit/Shells/Reverse Shells.md",
+    "EJPT/2. Enumeración/21 - FTP.md",
+    "EJPT/4. Exploit/Shells",
+    "EJPT/4. Exploit",
+    "EJPT/4. Exploit.md",
+    "EJPT/2. Enumeración/50051 - gRCP Google.md",
+    "EJPT/2. Enumeración/27017,27020 - MongoDB.md",
+    "EJPT/2. Enumeración/10249,10250,10256 - Kubernetes API.md",
+    "EJPT/2. Enumeración/8443 - Kubernetes.md",
+    "EJPT/2. Enumeración/6379 - REDIS.md",
+    "EJPT/2. Enumeración/4555 - RSIP.md",
+    "EJPT/2. Enumeración/873 - Rsync.md",
+    "EJPT/2. Enumeración/3389 - RDP.md",
+    "EJPT/2. Enumeración/3306 - TCP MySQL Server.md",
+    "EJPT/2. Enumeración/2049 - NFS.md",
+    "EJPT/2. Enumeración/389,636 - TCP - IDAP-IDAPSSL.md",
+    "EJPT/2. Enumeración/139,445 - SMB.md",
+    "EJPT/2. Enumeración/143 - IMAP.md",
+    "EJPT/2. Enumeración/110 - POP3-TCP.md",
+    "EJPT/3. Enumeraión CMS/ColdFusion Administrator.md",
+    "EJPT/3. Enumeraión CMS/WebDav.md",
+    "EJPT/3. Enumeraión CMS",
+    "EJPT/2. Enumeración/Sin título",
+    "EJPT/2. Enumeración/80,443 - HTTP-HTTPS CMS",
+    "EJPT/2. Enumeración",
+    "EJPT/Reconocimiento/Subdominios"
+  ]
+}
