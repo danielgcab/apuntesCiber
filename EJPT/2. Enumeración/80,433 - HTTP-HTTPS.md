@@ -317,6 +317,29 @@ Si no te reporta nada, puede que sea por que no le has puesto una / al final de 
 ffuf -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -u https://target/FUZZ -mc 200,301 -fs {size}
 ```
 
+### Gobuster
+
+Gobuster es una herramienta de línea de comandos diseñada para la enumeración y descubrimiento de recursos en servidores web. Se utiliza comúnmente para encontrar directorios y archivos ocultos en un sitio web mediante fuerza bruta.
+
+#### Comando básico
+ ``` bash
+gobuster dir -u http://<IP> -w /usr/share/wordlists/dirb/common.txt -t 50
+```
+
+
+- `dir`: Indica a Gobuster que realice una búsqueda de directorios en el servidor web especificado.
+- `-u http://<IP>`: Especifica la URL base del sitio web que se va a escanear. Reemplaza `<IP>` con la dirección IP del servidor.
+- `-w /usr/share/wordlists/dirb/common.txt`: Especifica la ruta de la lista de palabras que se utilizará en el escaneo. En este caso, se utiliza una lista común de palabras que suelen utilizarse para nombres de directorios.
+- `-t 50`: Define el número de hilos (threads) simultáneos que Gobuster utilizará para realizar las solicitudes al servidor. Un valor alto puede acelerar el escaneo, pero también puede aumentar la carga en el servidor objetivo y posiblemente activar medidas de defensa contra ataques de denegación de servicio.
+
+#### Ejemplo de uso
+
+Supongamos que queremos escanear el sitio web con la dirección IP `192.168.1.100` en busca de directorios ocultos o no enlazados. Podemos ejecutar el comando de la siguiente manera:
+``` bash
+gobuster dir -u http://192.168.1.100 -w /usr/share/wordlists/dirb/common.txt -t 50
+```
+
+
 #### Web Discovery
 
 |Parametro|Descripción|

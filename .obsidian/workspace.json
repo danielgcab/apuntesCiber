@@ -11,15 +11,36 @@
             "id": "3cba0bcf5b1ccef6",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Img/Pasted image 20240512185917.png"
+              }
+            }
+          },
+          {
+            "id": "4492c3225059f2b5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Img/Pasted image 20240512182003.png"
+              }
+            }
+          },
+          {
+            "id": "4583bebcef0f26c4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "EJPT/2. Enumeración/3389 - RDP.md",
+                "file": "EJPT/4. Exploit/Metasploit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "john",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJPT/2. Enumeración/3389 - RDP.md",
+                "file": "EJPT/4. Exploit/Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EJPT/2. Enumeración/3389 - RDP.md",
+                "file": "EJPT/4. Exploit/Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJPT/2. Enumeración/3389 - RDP.md"
+                "file": "EJPT/4. Exploit/Metasploit.md"
               }
             }
           }
@@ -146,10 +167,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3cba0bcf5b1ccef6",
+  "active": "4583bebcef0f26c4",
   "lastOpenFiles": [
-    "EJPT/2. Enumeración/110 - POP3-TCP.md",
+    "Writeups/Basic Pentesting - TRYHACKME.md",
+    "Img/Pasted image 20240513090609.png",
+    "Img/Pasted image 20240513090440.png",
+    "Img/Pasted image 20240513085927.png",
+    "Img/Pasted image 20240513085728.png",
+    "Img/Pasted image 20240513085306.png",
+    "EJPT/2. Enumeración/139,445 - SMB -SAMBA.md",
+    "EJPT/2. Enumeración/22 - SSH - SFTP.md",
+    "Img/Pasted image 20240512192528.png",
+    "Img/Pasted image 20240512192513.png",
+    "Img/Pasted image 20240512181454.png",
+    "Img/Pasted image 20240512182003.png",
+    "Img/Pasted image 20240512185917.png",
+    "Img",
+    "EJPT/3. Enumeraión CMS/WebDav.md",
+    "EJPT/4. Exploit/File Transfer.md",
+    "EJPT/2. Enumeración/80,433 - HTTP-HTTPS.md",
+    "EJPT/5. Escalada privilegios/Linux.md",
+    "Writeups",
     "EJPT/2. Enumeración/3389 - RDP.md",
+    "EJPT/Sin título",
+    "EJPT/2. Enumeración/110 - POP3-TCP.md",
     "EJPT/1. Reconocimiento/OSINT.md",
     "EJPT/4. Exploit/Shells/Web Shell.md",
     "EJPT/4. Exploit/Shells/Reverse Shells.md",
@@ -158,31 +199,20 @@
     "EJPT/2. Enumeración/4555 - RSIP.md",
     "EJPT/2. Enumeración/389,636 - TCP - IDAP-IDAPSSL.md",
     "EJPT/2. Enumeración/143 - IMAP.md",
-    "EJPT/2. Enumeración/80,433 - HTTP-HTTPS.md",
-    "EJPT/2. Enumeración/22 - SSH - SFTP.md",
     "EJPT/2. Enumeración/21 - FTP.md",
     "EJPT/1. Reconocimiento/Subdominios.md",
     "EJPT/1. Reconocimiento/Reconocimiento pasivo.md",
     "EJPT/1. Reconocimiento/Reconocimiento activo.md",
     "EJPT/5. Escalada privilegios/Windows.md",
-    "EJPT/5. Escalada privilegios/Linux.md",
-    "Pasted image 20240511165147.png",
-    "Pasted image 20240511165044.png",
     "EJPT/5. Escalada privilegios",
     "EJPT/Sin título.md",
-    "EJPT/4. Exploit/File Transfer.md",
     "EJPT/4. Exploit/Metasploit.md",
     "EJPT/4. Exploit/Shells",
     "EJPT/4. Exploit",
     "EJPT/4. Exploit.md",
-    "EJPT/2. Enumeración/50051 - gRCP Google.md",
-    "EJPT/2. Enumeración/27017,27020 - MongoDB.md",
-    "EJPT/2. Enumeración/8443 - Kubernetes.md",
-    "EJPT/2. Enumeración/6379 - REDIS.md",
     "EJPT/3. Enumeraión CMS",
     "EJPT/2. Enumeración/Sin título",
     "EJPT/2. Enumeración/80,443 - HTTP-HTTPS CMS",
-    "EJPT/2. Enumeración",
-    "EJPT/Reconocimiento/Subdominios"
+    "EJPT/2. Enumeración"
   ]
 }
