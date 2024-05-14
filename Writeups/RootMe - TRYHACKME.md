@@ -221,7 +221,7 @@ function printit ($string) {
 cambiamos la ip target y num puerto para decuarlo a nuestro caso, con nano creamos el archivo php y lo subimos a la web:
 
 
-![uploadFailrootme.png](/img/uploadFailrootme.png)
+![uploadFailrootme.png](../img/uploadFailrootme.png)
 
 no lo tendremos tan facil, intentaremos cambiar la extension php a ver si alguna cuela:
 en el directorio uploads vemos nuestras subidas:
