@@ -106,7 +106,7 @@ permitted by applicable law.
 Last login: Wed Mar 20 09:54:46 2024 from 192.168.0.21
 mario@2a9f78d555d6:~$ 
 ```
-En DockerLabs no hay flags por lo que paraconcluir la maquina tenemos que obtener root, asi que vamos a enumerar los servicios que tenemos como mario:
+En DockerLabs no hay flags por lo que para concluir la maquina tenemos que obtener root, asi que vamos a enumerar los privilegios que tenemos como mario:
 
 ```bash
 mario@2a9f78d555d6:~$ sudo -l
