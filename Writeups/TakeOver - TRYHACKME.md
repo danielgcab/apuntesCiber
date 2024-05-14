@@ -137,7 +137,7 @@ asi que lo añadimos al host y veos que hay en este subdominio:
 
 la web no tiene nada para sacar en si, pero al acceder con http en vez de https obtendremos la flag:
 
-![takeover3.png](assets/takeover3.png)
+**flag{beea0d6edfcee06a59b83fb50ae81b2f}**
 
 y con esto concluimos la maquina.
 

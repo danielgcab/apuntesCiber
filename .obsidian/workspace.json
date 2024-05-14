@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Writeups/TakeOver - TRYHACKME.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Writeups/TakeOver - TRYHACKME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Writeups/TakeOver - TRYHACKME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Writeups/TakeOver - TRYHACKME.md"
               }
             }
           }
@@ -148,7 +148,12 @@
   },
   "active": "59026bd04d05a134",
   "lastOpenFiles": [
+    "Writeups/assets/takeoverweb.png",
+    "Writeups/assets/takeover3.png",
+    "Writeups/assets/takeover2.png",
+    "Writeups/assets/takeover1.png",
     "Writeups/TakeOver - TRYHACKME.md",
+    "README.md",
     "Writeups/RootMe - TRYHACKME.md",
     "Writeups/Pickle Rick - TRYHACKME.md",
     "Writeups/Basic Pentesting - TRYHACKME.md",
@@ -166,9 +171,6 @@
     "CiberApuntes/Img/takeover2.png",
     "CiberApuntes/Img/takeover1.png",
     "CiberApuntes/Img/sshKay.png",
-    "CiberApuntes/Img/privrootme.png",
-    "CiberApuntes/Img/passBasicPents.png",
-    "CiberApuntes/Img/kayRoot.png",
     "CiberApuntes/Img",
     "CiberApuntes/EJPT/5. Escalada privilegios/Windows.md",
     "CiberApuntes/EJPT/5. Escalada privilegios/Linux.md",
@@ -187,8 +189,6 @@
     "CiberApuntes/EJPT/3. Enumeraión CMS/TeamCity.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS/Magento.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS/Joomla.md",
-    "CiberApuntes/EJPT/3. Enumeraión CMS/Drupal.md",
-    "CiberApuntes/EJPT/3. Enumeraión CMS/ColdFusion Administrator.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS",
     "CiberApuntes/EJPT/2. Enumeración",
     "CiberApuntes/EJPT/1. Reconocimiento",
