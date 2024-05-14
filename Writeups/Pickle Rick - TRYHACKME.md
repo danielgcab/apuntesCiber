@@ -118,7 +118,7 @@ Finished
 
 accedemos a la pagina login.php, me mostro una web de logueo, probé loguearme con el usuario R1ckRul3s y la pass: Wubbalubbadubdub y entre a este panel:
 
-![Pasted image 20240514115345.png](/img/PanelRick.png)
+![[/img/PanelRick.png|Pasted image 20240514115345.png]]
 
 aqui podemos introducir comandos a una shell, hice un -ls -la y mostró varios archivos:
 

@@ -78,7 +78,7 @@ nc <IP target> <puerto>
 
 #### 
 
-[](https://j4ckie0x17.gitbook.io/notes-pentesting/reconocimiento/activo#ncat-como-servidor)
+[[https://j4ckie0x17.gitbook.io/notes-pentesting/reconocimiento/activo#ncat-como-servidor]]
 
 Ncat como servidor
 

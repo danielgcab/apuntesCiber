@@ -4,58 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7af0215da3facfb9",
+        "id": "d8f8cd7c54cb27d9",
         "type": "tabs",
         "children": [
           {
-            "id": "1d463d873bf14ebd",
+            "id": "59026bd04d05a134",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/RootMe - TRYHACKME.md",
+                "file": "Writeups/Basic Pentesting - TRYHACKME.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "775eff1dd782aa5a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Img/takeover3.png"
-              }
-            }
-          },
-          {
-            "id": "844c27162c834045",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Img/takeover2.png"
-              }
-            }
-          },
-          {
-            "id": "a10ad32e64a6295e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Img/takeover1.png"
-              }
-            }
-          },
-          {
-            "id": "85efae5f15872980",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Img/takeoverweb.png"
               }
             }
           }
@@ -125,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/RootMe - TRYHACKME.md",
+                "file": "Writeups/Basic Pentesting - TRYHACKME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/RootMe - TRYHACKME.md",
+                "file": "Writeups/Basic Pentesting - TRYHACKME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/RootMe - TRYHACKME.md"
+                "file": "Writeups/Basic Pentesting - TRYHACKME.md"
               }
             }
           }
@@ -186,52 +146,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1d463d873bf14ebd",
+  "active": "59026bd04d05a134",
   "lastOpenFiles": [
-    "Writeups/Pickle Rick - TRYHACKME.md",
-    "Writeups/Basic Pentesting - TRYHACKME.md",
-    "EJPT/1. Reconocimiento/Reconocimiento pasivo.md",
-    "Img/Pasted image 20240514115345.png",
-    "Img/Pasted image 20240512192513.png",
-    "EJPT/1. Reconocimiento/Reconocimiento activo.md",
-    "EJPT/1. Reconocimiento/OSINT.md",
-    "Writeups/TakeOver - TRYHACKME.md",
-    "Img/takeover3.png",
-    "Img/takeover2.png",
-    "Img/takeover1.png",
-    "Img/takeoverweb.png",
-    "Writeups/RootMe - TRYHACKME.md",
-    "Img/flagrootme.png",
-    "Img/privrootme.png",
-    "Img/Shellrootme.png",
-    "Img/uploadFailrootme.png",
-    "EJPT/2. Enumeración/80,433 - HTTP-HTTPS.md",
-    "EJPT/2. Enumeración/3389 - RDP.md",
-    "EJPT/1. Reconocimiento/Subdominios.md",
-    "EJPT/4. Exploit/Metasploit.md",
-    "EJPT/2. Enumeración/139,445 - SMB -SAMBA.md",
-    "EJPT/2. Enumeración/22 - SSH - SFTP.md",
-    "Img",
-    "EJPT/3. Enumeraión CMS/WebDav.md",
-    "EJPT/4. Exploit/File Transfer.md",
-    "EJPT/5. Escalada privilegios/Linux.md",
-    "Writeups",
-    "EJPT/Sin título",
-    "EJPT/2. Enumeración/110 - POP3-TCP.md",
-    "EJPT/4. Exploit/Shells/Web Shell.md",
-    "EJPT/4. Exploit/Shells/Reverse Shells.md",
-    "EJPT/4. Exploit/Shells/Bind Shell.md",
-    "EJPT/2. Enumeración/10249,10250,10256 - Kubernetes API.md",
-    "EJPT/2. Enumeración/4555 - RSIP.md",
-    "EJPT/2. Enumeración/389,636 - TCP - IDAP-IDAPSSL.md",
-    "EJPT/2. Enumeración/143 - IMAP.md",
-    "EJPT/2. Enumeración/21 - FTP.md",
-    "EJPT/5. Escalada privilegios",
-    "EJPT/4. Exploit/Shells",
-    "EJPT/4. Exploit",
-    "EJPT/3. Enumeraión CMS",
-    "EJPT/2. Enumeración/Sin título",
-    "EJPT/2. Enumeración/80,443 - HTTP-HTTPS CMS",
-    "EJPT/2. Enumeración"
+    "CiberApuntes/Writeups/Basic Pentesting - TRYHACKME.md",
+    "Mis apuntes/Sin título.md",
+    "CiberApuntes/Writeups/TakeOver - TRYHACKME.md",
+    "CiberApuntes/Writeups/RootMe - TRYHACKME.md",
+    "CiberApuntes/Writeups/Pickle Rick - TRYHACKME.md",
+    "CiberApuntes/Writeups",
+    "CiberApuntes/README.md",
+    "CiberApuntes/Img/uploadRootMe.png",
+    "CiberApuntes/Img/uploadFailrootme.png",
+    "CiberApuntes/Img/takeoverweb.png",
+    "CiberApuntes/Img/takeover3.png",
+    "CiberApuntes/Img/takeover2.png",
+    "CiberApuntes/Img/takeover1.png",
+    "CiberApuntes/Img/sshKay.png",
+    "CiberApuntes/Img/privrootme.png",
+    "CiberApuntes/Img/passBasicPents.png",
+    "CiberApuntes/Img/kayRoot.png",
+    "CiberApuntes/Img",
+    "CiberApuntes/EJPT/5. Escalada privilegios/Windows.md",
+    "CiberApuntes/EJPT/5. Escalada privilegios/Linux.md",
+    "CiberApuntes/EJPT/5. Escalada privilegios",
+    "CiberApuntes/EJPT/4. Exploit/Shells/Web Shell.md",
+    "CiberApuntes/EJPT/4. Exploit/Shells/Reverse Shells.md",
+    "CiberApuntes/EJPT/4. Exploit/Shells/Bind Shell.md",
+    "CiberApuntes/EJPT/4. Exploit/Shells",
+    "CiberApuntes/EJPT/4. Exploit/Metasploit.md",
+    "CiberApuntes/EJPT/4. Exploit/File Transfer.md",
+    "CiberApuntes/EJPT/4. Exploit",
+    "CiberApuntes/EJPT/3. Enumeraión CMS/Wordpress.md",
+    "CiberApuntes/EJPT/3. Enumeraión CMS/WebDav.md",
+    "CiberApuntes/EJPT/3. Enumeraión CMS/WAF.md",
+    "CiberApuntes/EJPT/3. Enumeraión CMS/Tomcat.md",
+    "CiberApuntes/EJPT/3. Enumeraión CMS/TeamCity.md",
+    "CiberApuntes/EJPT/3. Enumeraión CMS/Magento.md",
+    "CiberApuntes/EJPT/3. Enumeraión CMS/Joomla.md",
+    "CiberApuntes/EJPT/3. Enumeraión CMS/Drupal.md",
+    "CiberApuntes/EJPT/3. Enumeraión CMS/ColdFusion Administrator.md",
+    "CiberApuntes/EJPT/3. Enumeraión CMS",
+    "CiberApuntes/EJPT/2. Enumeración/873 - Rsync.md",
+    "CiberApuntes/EJPT/2. Enumeración/8443 - Kubernetes.md",
+    "CiberApuntes/EJPT/2. Enumeración/80,433 - HTTP-HTTPS.md",
+    "CiberApuntes/EJPT/2. Enumeración/6379 - REDIS.md",
+    "CiberApuntes/EJPT/2. Enumeración",
+    "CiberApuntes/EJPT/1. Reconocimiento",
+    "CiberApuntes/EJPT",
+    "CiberApuntes",
+    "Sin título.canvas"
   ]
 }
