@@ -185,7 +185,7 @@ lsb_release -a
 
 Si creemos que puede que el sistema comprometido es vulnerable de kernel, como un script que no sea de ese mismo kernel lo ejecutemos en el sistema puede romperlo.
 
-Para asegurarnos tenemos [[Linux Exploit Suggester)](https://github.com/jondonas/linux-exploit-suggester-2|LES (Linux Exploit Suggester)]] que nos ayudará a saber cual es el CVE correcto para ejecutar.
+Para asegurarnos tenemos [LES (Linux Exploit Suggester)](Linux%20Exploit%20Suggester)) que nos ayudará a saber cual es el CVE correcto para ejecutar.
 
 ## Analizar archivos
 

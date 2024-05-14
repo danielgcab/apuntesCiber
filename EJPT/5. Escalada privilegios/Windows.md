@@ -530,7 +530,7 @@ nc -lvnp 4446
 
 Shell como svcusr2
 
-[[Windows) | VK9 SecurityVK9 Security](https://vk9-sec.com/privilege-escalation-unquoted-service-path-windows/|Privilege Escalation - Unquoted Service Path (Windows) | VK9 SecurityVK9 Security]]
+[ VK9 SecurityVK9 Security](https://vk9-sec.com/privilege-escalation-unquoted-service-path-windows/|Privilege Escalation - Unquoted Service Path (Windows) | VK9 SecurityVK9 Security](Windows)%20)
 
 ### Insecure Service Permissions
 
@@ -614,7 +614,7 @@ NT AUTHORITY\SYSTEM
 ## Abusando de privilegios peligrosos
 
 **Lista de privilegios peligrosos en este proyecto de github**
-[[mis)use the Windows Privileges to elevate your rights within the OS.GitHub](https://github.com/gtworek/Priv2Admin|GitHub - gtworek/Priv2Admin: Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS.GitHub]]
+[GitHub - gtworek/Priv2Admin: Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS.GitHub](mis)use%20the%20Windows%20Privileges%20to%20elevate%20your%20rights%20within%20the%20OS.GitHub)
 
 ## Abusando de programas vulnerables
 

@@ -40,11 +40,11 @@ droopescan scan drupal --url https://example.com
 
 Para versiones más antiguas de Drupal v8.x < v8.3.9 / v8.4.x < v8.4.6 / v8.5.x < v8.5.1 podemos utilizar Drupalgeddon2
 
-[[Drupalgeddon 2 / CVE-2018-7600 / SA-CORE-2018-002)GitHub](https://github.com/dreadlocked/Drupalgeddon2|GitHub - dreadlocked/Drupalgeddon2: Exploit for Drupal v7.x + v8.x (Drupalgeddon 2 / CVE-2018-7600 / SA-CORE-2018-002)GitHub]]
+[GitHub - dreadlocked/Drupalgeddon2: Exploit for Drupal v7.x + v8.x (Drupalgeddon 2 / CVE-2018-7600 / SA-CORE-2018-002)GitHub](Drupalgeddon%202%20/%20CVE-2018-7600%20/%20SA-CORE-2018-002)GitHub)
 
 Y para versiones de más antiguas que 7.58 el Drupalgeddon3, pero necesitas estar autenticado en el dashboard
 
-[[Metasploit)GitHub](https://github.com/rithchard/Drupalgeddon3|GitHub - rithchard/Drupalgeddon3: Drupal < 7.58 - Drupalgeddon 3 Authenticated Remote Code Execution (Metasploit)GitHub]]
+[GitHub - rithchard/Drupalgeddon3: Drupal < 7.58 - Drupalgeddon 3 Authenticated Remote Code Execution (Metasploit)GitHub](Metasploit)GitHub)
 
 ## Post Explotación
 
