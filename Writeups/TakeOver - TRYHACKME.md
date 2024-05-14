@@ -125,19 +125,19 @@ antes añadimos las webs al hosts:
 ```
 
  y vamos a ver el subdominio support:
-![[Pasted image 20240513162442.png]]
+![takeoverweb.png](/img/takeoverweb.png)
 
 aqui para ver la flag tendremos que buscar en los certificados de la web, para eso en firefox a la izquierda de la url en el candado podremos entras a las opciones para visualizar el certificado y encontraremos algo raro:
-![[Pasted image 20240513162654.png]]
+![takeover1.png](/img/takeover1.png)
 
 encontramos otro subdominio: secrethelpdesk934752.support.futurevera.thm
 asi que lo añadimos al host y veos que hay en este subdominio:
 
-![[Pasted image 20240513163042.png]]
+![takeover2.png](/img/takeover2.png)
 
 la web no tiene nada para sacar en si, pero al acceder con http en vez de https obtendremos la flag:
 
-![[Pasted image 20240513163125.png]]
+![takeover3.png](/img/takeover3.png)
 
 y con esto concluimos la maquina.
 

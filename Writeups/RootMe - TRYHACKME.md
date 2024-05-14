@@ -93,7 +93,7 @@ Respuesta: **/panel/**
 
 en este directorio encontramos una funcionalidad para subir archivos por lo que vamos a intentar si subiendo una reverse shell en php nos lo interpreta:
 
-![[Pasted image 20240513183813.png]]
+![uploadRootMe.png](/img/uploadRootMe.png)
 
 una herramienta para obtener una reverse shell es [revshells](https://www.revshells.com/):
 
@@ -221,11 +221,12 @@ function printit ($string) {
 cambiamos la ip target y num puerto para decuarlo a nuestro caso, con nano creamos el archivo php y lo subimos a la web:
 
 
-![[Pasted image 20240513184423.png]]
+![uploadFailrootme.png](/img/uploadFailrootme.png)
 
 no lo tendremos tan facil, intentaremos cambiar la extension php a ver si alguna cuela:
-en el directorio uploads vemos nuestras subidas
-![[Pasted image 20240513185250.png]]
+en el directorio uploads vemos nuestras subidas:
+
+![Shellrootme.png](/img/Shellrootme.png)
 
 tras unos intentos en mi caso me funciono la subida con la extension .phtml
 nos ponemos a la escucha en net cat y clickamos la shell subida.
@@ -251,12 +252,12 @@ $
 hacemos una busqueda a los permisos SUID y encontramos que tenemos SUID para el binario python:
 vamos a la web de gtfobins para ver como elevar los privilegios y aplicamos el metodo:
 
-![[Pasted image 20240513190930.png]]
+![privrootme.png](/img/privrootme.png)
 
 con esto obtenemos root.
 
 por ultimo buscamos el archivo user.txt en el sistema y lo visualizamos para contestar a la ultima pregunta de tryhackme:
-![[Pasted image 20240513191416.png]]
+![flagrootme.png](/img/flagrootme.png)
 
 **user.txt**
 Respuesta: **THM{y0u_g0t_a_sh3ll}**

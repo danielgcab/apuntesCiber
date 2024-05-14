@@ -8,27 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cba0bcf5b1ccef6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Img/Pasted image 20240512185917.png"
-              }
-            }
-          },
-          {
-            "id": "4492c3225059f2b5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Img/Pasted image 20240512182003.png"
-              }
-            }
-          },
-          {
-            "id": "4583bebcef0f26c4",
+            "id": "1d463d873bf14ebd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,9 +18,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "775eff1dd782aa5a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Img/takeover3.png"
+              }
+            }
+          },
+          {
+            "id": "844c27162c834045",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Img/takeover2.png"
+              }
+            }
+          },
+          {
+            "id": "a10ad32e64a6295e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Img/takeover1.png"
+              }
+            }
+          },
+          {
+            "id": "85efae5f15872980",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Img/takeoverweb.png"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subdo",
+                "query": "revers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,25 +186,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4583bebcef0f26c4",
+  "active": "1d463d873bf14ebd",
   "lastOpenFiles": [
-    "EJPT/2. Enumeración/3389 - RDP.md",
-    "Writeups/RootMe - TRYHACKME.md",
-    "Img/Pasted image 20240513191416.png",
-    "Img/Pasted image 20240513190930.png",
-    "Img/Pasted image 20240513185250.png",
-    "Img/Pasted image 20240513184423.png",
-    "Img/Pasted image 20240513183813.png",
-    "Writeups/TakeOver - TRYHACKME.md",
+    "Writeups/Pickle Rick - TRYHACKME.md",
     "Writeups/Basic Pentesting - TRYHACKME.md",
-    "Img/Pasted image 20240513163125.png",
-    "Img/Pasted image 20240513163042.png",
-    "Img/Pasted image 20240513162654.png",
-    "Img/Pasted image 20240513162442.png",
-    "EJPT/1. Reconocimiento/Subdominios.md",
+    "EJPT/1. Reconocimiento/Reconocimiento pasivo.md",
+    "Img/Pasted image 20240514115345.png",
+    "Img/Pasted image 20240512192513.png",
+    "EJPT/1. Reconocimiento/Reconocimiento activo.md",
+    "EJPT/1. Reconocimiento/OSINT.md",
+    "Writeups/TakeOver - TRYHACKME.md",
+    "Img/takeover3.png",
+    "Img/takeover2.png",
+    "Img/takeover1.png",
+    "Img/takeoverweb.png",
+    "Writeups/RootMe - TRYHACKME.md",
+    "Img/flagrootme.png",
+    "Img/privrootme.png",
+    "Img/Shellrootme.png",
+    "Img/uploadFailrootme.png",
     "EJPT/2. Enumeración/80,433 - HTTP-HTTPS.md",
+    "EJPT/2. Enumeración/3389 - RDP.md",
+    "EJPT/1. Reconocimiento/Subdominios.md",
     "EJPT/4. Exploit/Metasploit.md",
-    "Img/Pasted image 20240513090609.png",
     "EJPT/2. Enumeración/139,445 - SMB -SAMBA.md",
     "EJPT/2. Enumeración/22 - SSH - SFTP.md",
     "Img",
@@ -195,7 +218,6 @@
     "Writeups",
     "EJPT/Sin título",
     "EJPT/2. Enumeración/110 - POP3-TCP.md",
-    "EJPT/1. Reconocimiento/OSINT.md",
     "EJPT/4. Exploit/Shells/Web Shell.md",
     "EJPT/4. Exploit/Shells/Reverse Shells.md",
     "EJPT/4. Exploit/Shells/Bind Shell.md",
@@ -204,9 +226,6 @@
     "EJPT/2. Enumeración/389,636 - TCP - IDAP-IDAPSSL.md",
     "EJPT/2. Enumeración/143 - IMAP.md",
     "EJPT/2. Enumeración/21 - FTP.md",
-    "EJPT/1. Reconocimiento/Reconocimiento pasivo.md",
-    "EJPT/1. Reconocimiento/Reconocimiento activo.md",
-    "EJPT/5. Escalada privilegios/Windows.md",
     "EJPT/5. Escalada privilegios",
     "EJPT/4. Exploit/Shells",
     "EJPT/4. Exploit",
