@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Basic Pentesting - TRYHACKME.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/Basic Pentesting - TRYHACKME.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/Basic Pentesting - TRYHACKME.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/Basic Pentesting - TRYHACKME.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d2e973434476778",
+  "active": "59026bd04d05a134",
   "lastOpenFiles": [
+    "Writeups/TakeOver - TRYHACKME.md",
+    "Writeups/RootMe - TRYHACKME.md",
+    "Writeups/Pickle Rick - TRYHACKME.md",
+    "Writeups/Basic Pentesting - TRYHACKME.md",
     "CiberApuntes/Writeups/Basic Pentesting - TRYHACKME.md",
     "Mis apuntes/Sin título.md",
     "CiberApuntes/Writeups/TakeOver - TRYHACKME.md",
@@ -186,10 +190,6 @@
     "CiberApuntes/EJPT/3. Enumeraión CMS/Drupal.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS/ColdFusion Administrator.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS",
-    "CiberApuntes/EJPT/2. Enumeración/873 - Rsync.md",
-    "CiberApuntes/EJPT/2. Enumeración/8443 - Kubernetes.md",
-    "CiberApuntes/EJPT/2. Enumeración/80,433 - HTTP-HTTPS.md",
-    "CiberApuntes/EJPT/2. Enumeración/6379 - REDIS.md",
     "CiberApuntes/EJPT/2. Enumeración",
     "CiberApuntes/EJPT/1. Reconocimiento",
     "CiberApuntes/EJPT",
