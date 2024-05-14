@@ -1,3 +1,5 @@
+Vamos con la maquina takeover de tryhackme, os muestro el enunciado que nos da la web antes de empezar la maquina:
+
 Hello there,  
   
 I am the CEO and one of the co-founders of futurevera.thm. In Futurevera, we believe that the future is in space. We do a lot of space research and write blogs about it. We used to help students with space questions, but we are rebuilding our support.  

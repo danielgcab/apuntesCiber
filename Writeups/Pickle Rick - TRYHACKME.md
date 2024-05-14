@@ -1,3 +1,4 @@
+Vamos con la maquina de Pickle Rick, una maquina de tryhackme muy curiosa, os muestro el enunciado que nos da la web antes de ponernos manos a la obra:
 
 ![](https://i.imgur.com/o9pyhyU.jpg)  
 
