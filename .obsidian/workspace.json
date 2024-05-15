@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Basic Pentesting - TRYHACKME.md",
+                "file": "Writeups/First Hacking - DockerLabs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77e45626fb1cf5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writeups/First Hacking - DockerLabs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ace6512f5022a0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writeups/First Hacking - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/Basic Pentesting - TRYHACKME.md",
+                "file": "Writeups/First Hacking - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/Basic Pentesting - TRYHACKME.md",
+                "file": "Writeups/First Hacking - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/Basic Pentesting - TRYHACKME.md"
+                "file": "Writeups/First Hacking - DockerLabs.md"
               }
             }
           }
@@ -195,12 +219,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "328316402570853e",
+  "active": "ace6512f5022a0e2",
   "lastOpenFiles": [
+    "Writeups/assets/rootFirst.png",
+    "Writeups/First Hacking - DockerLabs.md",
+    "Writeups/assets/msfcFrHack.png",
+    "Writeups/Trust - DockerLabs.md",
+    "Writeups/Basic Pentesting - TRYHACKME.md",
     "Writeups/Pickle Rick - TRYHACKME.md",
     "Writeups/RootMe - TRYHACKME.md",
     "Writeups/TakeOver - TRYHACKME.md",
-    "Writeups/Trust - DockerLabs.md",
     "Pasted image 20240514193427.png",
     "Writeups/assets/dockerLabs.png",
     "Writeups/assets/rootTrust.png",
@@ -210,9 +238,6 @@
     "README.md",
     "Writeups/assets/gobusterTrust.png",
     "Writeups/assets/PrivKay.png",
-    "Writeups/assets/apacheTrust.png",
-    "Writeups/assets/takeoverweb.png",
-    "Writeups/Basic Pentesting - TRYHACKME.md",
     "CiberApuntes/Writeups/Basic Pentesting - TRYHACKME.md",
     "Mis apuntes/Sin título.md",
     "CiberApuntes/Writeups/TakeOver - TRYHACKME.md",
@@ -236,7 +261,6 @@
     "CiberApuntes/EJPT/3. Enumeraión CMS/WAF.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS/Tomcat.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS/TeamCity.md",
-    "CiberApuntes/EJPT/3. Enumeraión CMS/Magento.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS",
     "CiberApuntes/EJPT/2. Enumeración",
     "CiberApuntes/EJPT/1. Reconocimiento",
