@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/First Hacking - DockerLabs.md",
+                "file": "Writeups/BreackMySSH - DockerLabs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dae6e26ad3bfb793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writeups/BreackMySSH - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/First Hacking - DockerLabs.md",
+                "file": "Writeups/BreackMySSH - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/First Hacking - DockerLabs.md",
+                "file": "Writeups/BreackMySSH - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/First Hacking - DockerLabs.md"
+                "file": "Writeups/BreackMySSH - DockerLabs.md"
               }
             }
           }
@@ -219,10 +231,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ace6512f5022a0e2",
+  "active": "dae6e26ad3bfb793",
   "lastOpenFiles": [
-    "Writeups/assets/rootFirst.png",
     "Writeups/First Hacking - DockerLabs.md",
+    "Writeups/BreackMySSH - DockerLabs.md",
+    "Writeups/assets/rootBreackSSH.png",
+    "Writeups/assets/rootFirst.png",
     "Writeups/assets/msfcFrHack.png",
     "Writeups/Trust - DockerLabs.md",
     "Writeups/Basic Pentesting - TRYHACKME.md",
@@ -237,7 +251,6 @@
     "Writeups/assets/webMarioTrust.png",
     "README.md",
     "Writeups/assets/gobusterTrust.png",
-    "Writeups/assets/PrivKay.png",
     "CiberApuntes/Writeups/Basic Pentesting - TRYHACKME.md",
     "Mis apuntes/Sin título.md",
     "CiberApuntes/Writeups/TakeOver - TRYHACKME.md",
@@ -260,7 +273,6 @@
     "CiberApuntes/EJPT/3. Enumeraión CMS/WebDav.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS/WAF.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS/Tomcat.md",
-    "CiberApuntes/EJPT/3. Enumeraión CMS/TeamCity.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS",
     "CiberApuntes/EJPT/2. Enumeración",
     "CiberApuntes/EJPT/1. Reconocimiento",
