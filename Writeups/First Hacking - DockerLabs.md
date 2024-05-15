@@ -97,7 +97,7 @@ Matching Modules
 
 Interact with a module by name or index. For example info 0, use 0 or use exploit/unix/ftp/vsftpd_234_backdoor
 
-[msf](Jobs:0 Agents:0) >> 
+[msf](Jobs:0 Agents:0) >> use 0
 ```
 
 parece que existe una vulnerabilidad que nos puede permitir ejecutar comandos a través de un backdoor del servicio, vamos a usarlo y configurarlo a ver si da resultado:
