@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59026bd04d05a134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/Trust - DockerLabs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3324ac1d072391fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/Trust - DockerLabs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3e99b1155c5d219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/Trust - DockerLabs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47319553f7a67010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/Trust - DockerLabs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "328316402570853e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/First Hacking - DockerLabs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77e45626fb1cf5d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/First Hacking - DockerLabs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ace6512f5022a0e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/BreackMySSH - DockerLabs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dae6e26ad3bfb793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/BreackMySSH - DockerLabs.md",
+                "file": "Writeups/WalkingCMS - DockerLabls.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/BreackMySSH - DockerLabs.md",
+                "file": "Writeups/WalkingCMS - DockerLabls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/BreackMySSH - DockerLabs.md",
+                "file": "Writeups/WalkingCMS - DockerLabls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/BreackMySSH - DockerLabs.md"
+                "file": "Writeups/WalkingCMS - DockerLabls.md"
               }
             }
           }
@@ -231,26 +146,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dae6e26ad3bfb793",
+  "active": "2d2e973434476778",
   "lastOpenFiles": [
-    "Writeups/First Hacking - DockerLabs.md",
+    "Writeups/assets/gtfowalking.png",
+    "Writeups/assets/rootcmswalking.png",
+    "Writeups/assets/revshellcms.png",
+    "Writeups/assets/twentyrev.png",
+    "Writeups/assets/entradamariolove.png",
+    "Pasted image 20240521231309.png",
+    "Writeups/WalkingCMS - DockerLabls.md",
+    "Writeups/assets/loginmariolove.png",
+    "Writeups/assets/loginWalkingMario.png",
+    "Writeups/assets/wordpresscmsWalk.png",
+    "Writeups/assets/cmsGobs.png",
     "Writeups/BreackMySSH - DockerLabs.md",
-    "Writeups/assets/rootBreackSSH.png",
-    "Writeups/assets/rootFirst.png",
-    "Writeups/assets/msfcFrHack.png",
-    "Writeups/Trust - DockerLabs.md",
     "Writeups/Basic Pentesting - TRYHACKME.md",
+    "Writeups/First Hacking - DockerLabs.md",
+    "Writeups/assets/rootBreackSSH.png",
+    "Writeups/Trust - DockerLabs.md",
     "Writeups/Pickle Rick - TRYHACKME.md",
     "Writeups/RootMe - TRYHACKME.md",
     "Writeups/TakeOver - TRYHACKME.md",
-    "Pasted image 20240514193427.png",
-    "Writeups/assets/dockerLabs.png",
-    "Writeups/assets/rootTrust.png",
-    "Writeups/assets/vimTrust.png",
-    "Writeups/assets/hydraTrust.png",
-    "Writeups/assets/webMarioTrust.png",
     "README.md",
-    "Writeups/assets/gobusterTrust.png",
     "CiberApuntes/Writeups/Basic Pentesting - TRYHACKME.md",
     "Mis apuntes/Sin título.md",
     "CiberApuntes/Writeups/TakeOver - TRYHACKME.md",
@@ -272,7 +189,6 @@
     "CiberApuntes/EJPT/3. Enumeraión CMS/Wordpress.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS/WebDav.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS/WAF.md",
-    "CiberApuntes/EJPT/3. Enumeraión CMS/Tomcat.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS",
     "CiberApuntes/EJPT/2. Enumeración",
     "CiberApuntes/EJPT/1. Reconocimiento",
