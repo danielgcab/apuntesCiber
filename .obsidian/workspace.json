@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f8cd7c54cb27d9",
+        "id": "d7b9b2862553c60f",
         "type": "tabs",
         "children": [
           {
-            "id": "dae6e26ad3bfb793",
+            "id": "344eb1fe36354112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/WalkingCMS - DockerLabls.md",
+                "file": "Writeups/Injection -DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "revers",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/WalkingCMS - DockerLabls.md",
+                "file": "Writeups/Injection -DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/WalkingCMS - DockerLabls.md",
+                "file": "Writeups/Injection -DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/WalkingCMS - DockerLabls.md"
+                "file": "Writeups/Injection -DockerLabs.md"
               }
             }
           }
@@ -146,24 +146,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d2e973434476778",
+  "active": "344eb1fe36354112",
   "lastOpenFiles": [
+    "GTFOBINS.md",
+    "Writeups/Injection -DockerLabs.md",
+    "Writeups/assets/rootInjection.png",
+    "Writeups/assets/logedInj.png",
+    "Writeups/assets/sqllogininject.png",
+    "Writeups/assets/webInjection.png",
+    "Writeups/WalkingCMS - DockerLabls.md",
+    "Writeups/Trust - DockerLabs.md",
+    "Writeups/First Hacking - DockerLabs.md",
+    "Writeups/BreackMySSH - DockerLabs.md",
     "Writeups/assets/gtfowalking.png",
     "Writeups/assets/rootcmswalking.png",
     "Writeups/assets/revshellcms.png",
     "Writeups/assets/twentyrev.png",
     "Writeups/assets/entradamariolove.png",
     "Pasted image 20240521231309.png",
-    "Writeups/WalkingCMS - DockerLabls.md",
-    "Writeups/assets/loginmariolove.png",
-    "Writeups/assets/loginWalkingMario.png",
-    "Writeups/assets/wordpresscmsWalk.png",
-    "Writeups/assets/cmsGobs.png",
-    "Writeups/BreackMySSH - DockerLabs.md",
     "Writeups/Basic Pentesting - TRYHACKME.md",
-    "Writeups/First Hacking - DockerLabs.md",
-    "Writeups/assets/rootBreackSSH.png",
-    "Writeups/Trust - DockerLabs.md",
     "Writeups/Pickle Rick - TRYHACKME.md",
     "Writeups/RootMe - TRYHACKME.md",
     "Writeups/TakeOver - TRYHACKME.md",
@@ -187,8 +188,6 @@
     "CiberApuntes/EJPT/4. Exploit/File Transfer.md",
     "CiberApuntes/EJPT/4. Exploit",
     "CiberApuntes/EJPT/3. Enumeraión CMS/Wordpress.md",
-    "CiberApuntes/EJPT/3. Enumeraión CMS/WebDav.md",
-    "CiberApuntes/EJPT/3. Enumeraión CMS/WAF.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS",
     "CiberApuntes/EJPT/2. Enumeración",
     "CiberApuntes/EJPT/1. Reconocimiento",
