@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/-Pn - DockerLabs.md",
+                "file": "Apuntes/1. Reconocimiento/OSINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#VeryEasy",
+                "query": "path:\"EJPT/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/-Pn - DockerLabs.md",
+                "file": "Apuntes/1. Reconocimiento/OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/-Pn - DockerLabs.md",
+                "file": "Apuntes/1. Reconocimiento/OSINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/-Pn - DockerLabs.md"
+                "file": "Apuntes/1. Reconocimiento/OSINT.md"
               }
             }
           }
@@ -148,52 +148,52 @@
   },
   "active": "344eb1fe36354112",
   "lastOpenFiles": [
+    "Writeups/-Pn - DockerLabs.md",
+    "Apuntes/5. Escalada privilegios/Windows.md",
+    "Apuntes/5. Escalada privilegios/Linux.md",
+    "Apuntes/5. Escalada privilegios",
+    "Apuntes/4. Exploit/Shells/Web Shell.md",
+    "Apuntes/4. Exploit/Shells/Reverse Shells.md",
+    "Apuntes/4. Exploit/Shells/Bind Shell.md",
+    "Apuntes/4. Exploit/Shells",
+    "Apuntes/4. Exploit/Metasploit.md",
+    "Apuntes/4. Exploit/File Transfer.md",
+    "Apuntes/4. Exploit",
+    "Apuntes/3. Enumeraión CMS/Wordpress.md",
+    "Apuntes/3. Enumeraión CMS/WebDav.md",
+    "Apuntes/3. Enumeraión CMS/WAF.md",
+    "Apuntes/3. Enumeraión CMS/Tomcat.md",
+    "Apuntes/3. Enumeraión CMS/TeamCity.md",
+    "Apuntes/3. Enumeraión CMS/Magento.md",
+    "Apuntes/3. Enumeraión CMS/Joomla.md",
+    "Apuntes/3. Enumeraión CMS/Drupal.md",
+    "Apuntes/3. Enumeraión CMS/ColdFusion Administrator.md",
+    "Apuntes/3. Enumeraión CMS",
+    "Apuntes/2. Enumeración/873 - Rsync.md",
+    "Apuntes/2. Enumeración/8443 - Kubernetes.md",
+    "Apuntes/2. Enumeración/80,433 - HTTP-HTTPS.md",
+    "Apuntes/2. Enumeración/6379 - REDIS.md",
+    "Apuntes/2. Enumeración/50051 - gRCP Google.md",
+    "Apuntes/2. Enumeración/4555 - RSIP.md",
+    "Apuntes/2. Enumeración/389,636 - TCP - IDAP-IDAPSSL.md",
+    "Apuntes/2. Enumeración/3389 - RDP.md",
+    "Apuntes/2. Enumeración/3306 - TCP MySQL Server.md",
+    "Apuntes/2. Enumeración",
+    "Apuntes/1. Reconocimiento",
+    "Apuntes",
     "Writeups/assets/rootPn.png",
     "Writeups/assets/newdortomcat.png",
     "Writeups/assets/revShellomcat.png",
     "Writeups/assets/tomcatuipn.png",
     "Writeups/assets/tomcatlogin.png",
     "Writeups/assets/tomactpn.png",
-    "Writeups/Basic Pentesting - TRYHACKME.md",
-    "Writeups/-Pn - DockerLabs.md",
-    "Writeups/BreackMySSH - DockerLabs.md",
-    "Writeups/WhereIsMyShell - DockerLabs.md",
     "Writeups/assets/rootWhereIsMyShell.png",
     "Writeups/assets/parameterDir.png",
     "Writeups/assets/warningShell.png",
     "Writeups/assets/tmpIngls.png",
-    "Writeups/assets/webIngls.png",
-    "Writeups/WalkingCMS - DockerLabls.md",
-    "Writeups/Injection -DockerLabs.md",
-    "Writeups/First Hacking - DockerLabs.md",
-    "GTFOBINS.md",
-    "Writeups/Trust - DockerLabs.md",
-    "Writeups/Pickle Rick - TRYHACKME.md",
-    "Writeups/RootMe - TRYHACKME.md",
-    "Writeups/TakeOver - TRYHACKME.md",
-    "README.md",
-    "CiberApuntes/Writeups/Basic Pentesting - TRYHACKME.md",
-    "Mis apuntes/Sin título.md",
-    "CiberApuntes/Writeups/TakeOver - TRYHACKME.md",
-    "CiberApuntes/Writeups/RootMe - TRYHACKME.md",
-    "CiberApuntes/Writeups/Pickle Rick - TRYHACKME.md",
     "CiberApuntes/Writeups",
-    "CiberApuntes/README.md",
     "CiberApuntes/Img",
-    "CiberApuntes/EJPT/5. Escalada privilegios/Windows.md",
-    "CiberApuntes/EJPT/5. Escalada privilegios/Linux.md",
     "CiberApuntes/EJPT/5. Escalada privilegios",
-    "CiberApuntes/EJPT/4. Exploit/Shells/Web Shell.md",
-    "CiberApuntes/EJPT/4. Exploit/Shells/Reverse Shells.md",
-    "CiberApuntes/EJPT/4. Exploit/Shells/Bind Shell.md",
-    "CiberApuntes/EJPT/4. Exploit/Shells",
-    "CiberApuntes/EJPT/4. Exploit/Metasploit.md",
-    "CiberApuntes/EJPT/4. Exploit",
-    "CiberApuntes/EJPT/3. Enumeraión CMS",
-    "CiberApuntes/EJPT/2. Enumeración",
-    "CiberApuntes/EJPT/1. Reconocimiento",
-    "CiberApuntes/EJPT",
-    "CiberApuntes",
     "Sin título.canvas"
   ]
 }
