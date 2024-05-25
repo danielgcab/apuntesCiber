@@ -1,5 +1,7 @@
 #Writeups #VeryEasy #DockerLabs
 
+![dockerLabs.png](assets/dockerLabs.png)
+
 Comenzamos con un escaneo general de nmap:
 ```bash
 ❯ sudo nmap -sS -Pn -p- --min-rate 5000 172.17.0.2

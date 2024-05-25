@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Injection -DockerLabs.md",
+                "file": "Writeups/WhereIsMyShell - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/Injection -DockerLabs.md",
+                "file": "Writeups/WhereIsMyShell - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/Injection -DockerLabs.md",
+                "file": "Writeups/WhereIsMyShell - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/Injection -DockerLabs.md"
+                "file": "Writeups/WhereIsMyShell - DockerLabs.md"
               }
             }
           }
@@ -146,25 +146,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "344eb1fe36354112",
+  "active": "2d2e973434476778",
   "lastOpenFiles": [
-    "GTFOBINS.md",
+    "Writeups/assets/rootWhereIsMyShell.png",
+    "Writeups/assets/parameterDir.png",
+    "Writeups/assets/warningShell.png",
+    "Writeups/assets/tmpIngls.png",
+    "Writeups/assets/webIngls.png",
+    "Writeups/WalkingCMS - DockerLabls.md",
+    "Writeups/WhereIsMyShell - DockerLabs.md",
+    "Writeups/assets/rockyourev.png",
+    "Writeups/assets/capybaraWeb.png",
     "Writeups/Injection -DockerLabs.md",
+    "Writeups/BreackMySSH - DockerLabs.md",
+    "Writeups/Basic Pentesting - TRYHACKME.md",
+    "Writeups/First Hacking - DockerLabs.md",
+    "GTFOBINS.md",
     "Writeups/assets/rootInjection.png",
     "Writeups/assets/logedInj.png",
     "Writeups/assets/sqllogininject.png",
     "Writeups/assets/webInjection.png",
-    "Writeups/WalkingCMS - DockerLabls.md",
     "Writeups/Trust - DockerLabs.md",
-    "Writeups/First Hacking - DockerLabs.md",
-    "Writeups/BreackMySSH - DockerLabs.md",
-    "Writeups/assets/gtfowalking.png",
-    "Writeups/assets/rootcmswalking.png",
-    "Writeups/assets/revshellcms.png",
-    "Writeups/assets/twentyrev.png",
-    "Writeups/assets/entradamariolove.png",
-    "Pasted image 20240521231309.png",
-    "Writeups/Basic Pentesting - TRYHACKME.md",
     "Writeups/Pickle Rick - TRYHACKME.md",
     "Writeups/RootMe - TRYHACKME.md",
     "Writeups/TakeOver - TRYHACKME.md",
@@ -187,7 +189,6 @@
     "CiberApuntes/EJPT/4. Exploit/Metasploit.md",
     "CiberApuntes/EJPT/4. Exploit/File Transfer.md",
     "CiberApuntes/EJPT/4. Exploit",
-    "CiberApuntes/EJPT/3. Enumeraión CMS/Wordpress.md",
     "CiberApuntes/EJPT/3. Enumeraión CMS",
     "CiberApuntes/EJPT/2. Enumeración",
     "CiberApuntes/EJPT/1. Reconocimiento",
