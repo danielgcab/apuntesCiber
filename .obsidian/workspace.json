@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/WhereIsMyShell - DockerLabs.md",
+                "file": "Writeups/-Pn - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#VeryEasy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/WhereIsMyShell - DockerLabs.md",
+                "file": "Writeups/-Pn - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/WhereIsMyShell - DockerLabs.md",
+                "file": "Writeups/-Pn - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/WhereIsMyShell - DockerLabs.md"
+                "file": "Writeups/-Pn - DockerLabs.md"
               }
             }
           }
@@ -146,26 +146,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d2e973434476778",
+  "active": "344eb1fe36354112",
   "lastOpenFiles": [
+    "Writeups/assets/rootPn.png",
+    "Writeups/assets/newdortomcat.png",
+    "Writeups/assets/revShellomcat.png",
+    "Writeups/assets/tomcatuipn.png",
+    "Writeups/assets/tomcatlogin.png",
+    "Writeups/assets/tomactpn.png",
+    "Writeups/Basic Pentesting - TRYHACKME.md",
+    "Writeups/-Pn - DockerLabs.md",
+    "Writeups/BreackMySSH - DockerLabs.md",
+    "Writeups/WhereIsMyShell - DockerLabs.md",
     "Writeups/assets/rootWhereIsMyShell.png",
     "Writeups/assets/parameterDir.png",
     "Writeups/assets/warningShell.png",
     "Writeups/assets/tmpIngls.png",
     "Writeups/assets/webIngls.png",
     "Writeups/WalkingCMS - DockerLabls.md",
-    "Writeups/WhereIsMyShell - DockerLabs.md",
-    "Writeups/assets/rockyourev.png",
-    "Writeups/assets/capybaraWeb.png",
     "Writeups/Injection -DockerLabs.md",
-    "Writeups/BreackMySSH - DockerLabs.md",
-    "Writeups/Basic Pentesting - TRYHACKME.md",
     "Writeups/First Hacking - DockerLabs.md",
     "GTFOBINS.md",
-    "Writeups/assets/rootInjection.png",
-    "Writeups/assets/logedInj.png",
-    "Writeups/assets/sqllogininject.png",
-    "Writeups/assets/webInjection.png",
     "Writeups/Trust - DockerLabs.md",
     "Writeups/Pickle Rick - TRYHACKME.md",
     "Writeups/RootMe - TRYHACKME.md",
@@ -187,7 +188,6 @@
     "CiberApuntes/EJPT/4. Exploit/Shells/Bind Shell.md",
     "CiberApuntes/EJPT/4. Exploit/Shells",
     "CiberApuntes/EJPT/4. Exploit/Metasploit.md",
-    "CiberApuntes/EJPT/4. Exploit/File Transfer.md",
     "CiberApuntes/EJPT/4. Exploit",
     "CiberApuntes/EJPT/3. Enumeraión CMS",
     "CiberApuntes/EJPT/2. Enumeración",
