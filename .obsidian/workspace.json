@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/HiddenCat - DockerLabs.md",
+                "file": "Writeups/Pinguinazo - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/HiddenCat - DockerLabs.md",
+                "file": "Writeups/Pinguinazo - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/HiddenCat - DockerLabs.md",
+                "file": "Writeups/Pinguinazo - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/HiddenCat - DockerLabs.md"
+                "file": "Writeups/Pinguinazo - DockerLabs.md"
               }
             }
           }
@@ -146,23 +146,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "344eb1fe36354112",
+  "active": "2d2e973434476778",
   "lastOpenFiles": [
-    "Writeups/assets/rootHiddenCat.png",
-    "Writeups/assets/ghostcat.png",
-    "Writeups/assets/tomcathiddencat.png",
-    "Writeups/HiddenCat - DockerLabs.md",
-    "Writeups/Library - DockerLabs.md",
-    "Writeups/assets/rootLibrary.png",
-    "Writeups/assets/nanoscript.png",
-    "Writeups/assets/scriptpynowritteable.png",
-    "Writeups/Injection -DockerLabs.md",
+    "Writeups/assets/rootPinguiniazo.png",
+    "Pasted image 20240527173101.png",
+    "Writeups/Pinguinazo - DockerLabs.md",
+    "Writeups/assets/REVSHELLPINGUSSTI.png",
+    "Writeups/assets/sstijinja2.png",
+    "Writeups/assets/pingu25.png",
+    "Writeups/assets/pingussti.png",
     "Writeups/DockerLabs -DockerLabs.md",
-    "Writeups/assets/rootDockerLabs.png",
-    "Pasted image 20240527104940.png",
-    "Writeups/assets/exitophar.png",
-    "Writeups/assets/phardockerlabs.png",
-    "Writeups/assets/nozipdockerlabs.png",
+    "Writeups/First Hacking - DockerLabs.md",
+    "Writeups/HiddenCat - DockerLabs.md",
+    "Writeups/Pickle Rick - TRYHACKME.md",
+    "Writeups/RootMe - TRYHACKME.md",
+    "Writeups/TakeOver - TRYHACKME.md",
+    "Writeups/Trust - DockerLabs.md",
+    "Writeups/WalkingCMS - DockerLabls.md",
+    "Writeups/WhereIsMyShell - DockerLabs.md",
+    "Writeups/Basic Pentesting - TRYHACKME.md",
+    "Writeups/Injection -DockerLabs.md",
+    "Writeups/assets/xsspingufunciona.png",
+    "Writeups/assets/xsspingu.png",
+    "Writeups/assets/pinguconsole.png",
+    "Writeups/assets/pinguform.png",
+    "Writeups/assets/rootHiddenCat.png",
+    "Writeups/Library - DockerLabs.md",
     "Writeups/BreackMySSH - DockerLabs.md",
     "Apuntes/1. Reconocimiento/OSINT.md",
     "Writeups/-Pn - DockerLabs.md",
@@ -178,16 +187,7 @@
     "Apuntes/4. Exploit",
     "Apuntes/3. Enumeraión CMS/Wordpress.md",
     "Apuntes/3. Enumeraión CMS/WebDav.md",
-    "Apuntes/3. Enumeraión CMS/WAF.md",
-    "Apuntes/3. Enumeraión CMS/Tomcat.md",
-    "Apuntes/3. Enumeraión CMS/TeamCity.md",
-    "Apuntes/3. Enumeraión CMS/Magento.md",
-    "Apuntes/3. Enumeraión CMS/Joomla.md",
-    "Apuntes/3. Enumeraión CMS/Drupal.md",
-    "Apuntes/3. Enumeraión CMS/ColdFusion Administrator.md",
     "Apuntes/3. Enumeraión CMS",
-    "Apuntes/2. Enumeración/873 - Rsync.md",
-    "Apuntes/2. Enumeración/8443 - Kubernetes.md",
     "Apuntes/2. Enumeración",
     "Apuntes/1. Reconocimiento",
     "Apuntes",
