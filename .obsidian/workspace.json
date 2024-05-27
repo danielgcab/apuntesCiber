@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Pinguinazo - DockerLabs.md",
+                "file": "Writeups/Picadilly - DockerLabs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c680822c0a193b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writeups/Picadilly - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/Pinguinazo - DockerLabs.md",
+                "file": "Writeups/Picadilly - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/Pinguinazo - DockerLabs.md",
+                "file": "Writeups/Picadilly - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/Pinguinazo - DockerLabs.md"
+                "file": "Writeups/Picadilly - DockerLabs.md"
               }
             }
           }
@@ -146,32 +159,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d2e973434476778",
+  "active": "c680822c0a193b91",
   "lastOpenFiles": [
-    "Writeups/assets/rootPinguiniazo.png",
-    "Pasted image 20240527173101.png",
+    "Writeups/assets/cesarletrasgoogle.png",
+    "Writeups/Picadilly - DockerLabs.md",
+    "Writeups/assets/rootPicadilly.png",
+    "Writeups/assets/gtfobinsphppicadilly.png",
+    "Writeups/assets/mateosudoperm.png",
     "Writeups/Pinguinazo - DockerLabs.md",
-    "Writeups/assets/REVSHELLPINGUSSTI.png",
-    "Writeups/assets/sstijinja2.png",
-    "Writeups/assets/pingu25.png",
-    "Writeups/assets/pingussti.png",
+    "Writeups/Library - DockerLabs.md",
+    "Writeups/assets/cesardcode.png",
+    "Writeups/WhereIsMyShell - DockerLabs.md",
+    "Writeups/TakeOver - TRYHACKME.md",
+    "Writeups/assets/gptcesar.png",
+    "Writeups/assets/picadillyuploads.png",
+    "Writeups/assets/revshellpicadilly.png",
+    "Writeups/assets/picadillyweb.png",
+    "Writeups/assets/picadillywebhttps.png",
     "Writeups/DockerLabs -DockerLabs.md",
     "Writeups/First Hacking - DockerLabs.md",
     "Writeups/HiddenCat - DockerLabs.md",
     "Writeups/Pickle Rick - TRYHACKME.md",
     "Writeups/RootMe - TRYHACKME.md",
-    "Writeups/TakeOver - TRYHACKME.md",
     "Writeups/Trust - DockerLabs.md",
     "Writeups/WalkingCMS - DockerLabls.md",
-    "Writeups/WhereIsMyShell - DockerLabs.md",
     "Writeups/Basic Pentesting - TRYHACKME.md",
     "Writeups/Injection -DockerLabs.md",
-    "Writeups/assets/xsspingufunciona.png",
-    "Writeups/assets/xsspingu.png",
-    "Writeups/assets/pinguconsole.png",
-    "Writeups/assets/pinguform.png",
-    "Writeups/assets/rootHiddenCat.png",
-    "Writeups/Library - DockerLabs.md",
     "Writeups/BreackMySSH - DockerLabs.md",
     "Apuntes/1. Reconocimiento/OSINT.md",
     "Writeups/-Pn - DockerLabs.md",
@@ -186,7 +199,6 @@
     "Apuntes/4. Exploit/File Transfer.md",
     "Apuntes/4. Exploit",
     "Apuntes/3. Enumeraión CMS/Wordpress.md",
-    "Apuntes/3. Enumeraión CMS/WebDav.md",
     "Apuntes/3. Enumeraión CMS",
     "Apuntes/2. Enumeración",
     "Apuntes/1. Reconocimiento",
