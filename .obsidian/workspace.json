@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Picadilly - DockerLabs.md",
+                "file": "Writeups/Amor - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/Picadilly - DockerLabs.md",
+                "file": "Writeups/Amor - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/Picadilly - DockerLabs.md",
+                "file": "Writeups/Amor - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/Picadilly - DockerLabs.md"
+                "file": "Writeups/Amor - DockerLabs.md"
               }
             }
           }
@@ -159,33 +159,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c680822c0a193b91",
+  "active": "2d2e973434476778",
   "lastOpenFiles": [
-    "Writeups/assets/cesarletrasgoogle.png",
+    "Writeups/assets/rootAmor.png",
+    "Writeups/assets/rubamor.png",
+    "Writeups/assets/imagenbase64amor.png",
+    "Writeups/assets/serveramor.png",
+    "Writeups/Pinguinazo - DockerLabs.md",
+    "Writeups/HiddenCat - DockerLabs.md",
+    "Writeups/Amor - DockerLabs.md",
+    "Writeups/assets/amorweb.png",
+    "Writeups/BreackMySSH - DockerLabs.md",
+    "Writeups/Basic Pentesting - TRYHACKME.md",
+    "Writeups/RootMe - TRYHACKME.md",
+    "Writeups/TakeOver - TRYHACKME.md",
     "Writeups/Picadilly - DockerLabs.md",
+    "Writeups/assets/cesarletrasgoogle.png",
     "Writeups/assets/rootPicadilly.png",
     "Writeups/assets/gtfobinsphppicadilly.png",
     "Writeups/assets/mateosudoperm.png",
-    "Writeups/Pinguinazo - DockerLabs.md",
     "Writeups/Library - DockerLabs.md",
     "Writeups/assets/cesardcode.png",
     "Writeups/WhereIsMyShell - DockerLabs.md",
-    "Writeups/TakeOver - TRYHACKME.md",
     "Writeups/assets/gptcesar.png",
-    "Writeups/assets/picadillyuploads.png",
-    "Writeups/assets/revshellpicadilly.png",
-    "Writeups/assets/picadillyweb.png",
-    "Writeups/assets/picadillywebhttps.png",
     "Writeups/DockerLabs -DockerLabs.md",
     "Writeups/First Hacking - DockerLabs.md",
-    "Writeups/HiddenCat - DockerLabs.md",
     "Writeups/Pickle Rick - TRYHACKME.md",
-    "Writeups/RootMe - TRYHACKME.md",
     "Writeups/Trust - DockerLabs.md",
     "Writeups/WalkingCMS - DockerLabls.md",
-    "Writeups/Basic Pentesting - TRYHACKME.md",
     "Writeups/Injection -DockerLabs.md",
-    "Writeups/BreackMySSH - DockerLabs.md",
     "Apuntes/1. Reconocimiento/OSINT.md",
     "Writeups/-Pn - DockerLabs.md",
     "Apuntes/5. Escalada privilegios/Windows.md",
@@ -198,7 +200,6 @@
     "Apuntes/4. Exploit/Metasploit.md",
     "Apuntes/4. Exploit/File Transfer.md",
     "Apuntes/4. Exploit",
-    "Apuntes/3. Enumeraión CMS/Wordpress.md",
     "Apuntes/3. Enumeraión CMS",
     "Apuntes/2. Enumeración",
     "Apuntes/1. Reconocimiento",
