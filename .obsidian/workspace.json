@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/DockerLabs -DockerLabs.md",
+                "file": "Writeups/Library - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/DockerLabs -DockerLabs.md",
+                "file": "Writeups/Library - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/DockerLabs -DockerLabs.md",
+                "file": "Writeups/Library - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/DockerLabs -DockerLabs.md"
+                "file": "Writeups/Library - DockerLabs.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "2d2e973434476778",
   "lastOpenFiles": [
+    "Writeups/assets/rootLibrary.png",
+    "Writeups/assets/nanoscript.png",
+    "Writeups/assets/scriptpynowritteable.png",
+    "Writeups/Injection -DockerLabs.md",
+    "Writeups/Library - DockerLabs.md",
+    "Writeups/DockerLabs -DockerLabs.md",
     "Writeups/assets/rootDockerLabs.png",
     "Pasted image 20240527104940.png",
     "Writeups/assets/exitophar.png",
-    "Writeups/DockerLabs -DockerLabs.md",
     "Writeups/assets/phardockerlabs.png",
     "Writeups/assets/nozipdockerlabs.png",
     "Writeups/assets/machinedockerupload.png",
@@ -183,14 +188,9 @@
     "Apuntes/2. Enumeración/873 - Rsync.md",
     "Apuntes/2. Enumeración/8443 - Kubernetes.md",
     "Apuntes/2. Enumeración/80,433 - HTTP-HTTPS.md",
-    "Apuntes/2. Enumeración/6379 - REDIS.md",
-    "Apuntes/2. Enumeración/50051 - gRCP Google.md",
     "Apuntes/2. Enumeración",
     "Apuntes/1. Reconocimiento",
     "Apuntes",
-    "Writeups/assets/rootPn.png",
-    "Writeups/assets/newdortomcat.png",
-    "Writeups/assets/revShellomcat.png",
     "CiberApuntes/Writeups",
     "CiberApuntes/Img",
     "CiberApuntes/EJPT/5. Escalada privilegios",
