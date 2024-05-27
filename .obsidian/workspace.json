@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Library - DockerLabs.md",
+                "file": "Writeups/HiddenCat - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/Library - DockerLabs.md",
+                "file": "Writeups/HiddenCat - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/Library - DockerLabs.md",
+                "file": "Writeups/HiddenCat - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/Library - DockerLabs.md"
+                "file": "Writeups/HiddenCat - DockerLabs.md"
               }
             }
           }
@@ -146,22 +146,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d2e973434476778",
+  "active": "344eb1fe36354112",
   "lastOpenFiles": [
+    "Writeups/assets/rootHiddenCat.png",
+    "Writeups/assets/ghostcat.png",
+    "Writeups/assets/tomcathiddencat.png",
+    "Writeups/HiddenCat - DockerLabs.md",
+    "Writeups/Library - DockerLabs.md",
     "Writeups/assets/rootLibrary.png",
     "Writeups/assets/nanoscript.png",
     "Writeups/assets/scriptpynowritteable.png",
     "Writeups/Injection -DockerLabs.md",
-    "Writeups/Library - DockerLabs.md",
     "Writeups/DockerLabs -DockerLabs.md",
     "Writeups/assets/rootDockerLabs.png",
     "Pasted image 20240527104940.png",
     "Writeups/assets/exitophar.png",
     "Writeups/assets/phardockerlabs.png",
     "Writeups/assets/nozipdockerlabs.png",
-    "Writeups/assets/machinedockerupload.png",
-    "Writeups/assets/dockeruploads.png",
-    "Writeups/assets/dockerlabsweb.png",
     "Writeups/BreackMySSH - DockerLabs.md",
     "Apuntes/1. Reconocimiento/OSINT.md",
     "Writeups/-Pn - DockerLabs.md",
@@ -187,7 +188,6 @@
     "Apuntes/3. Enumeraión CMS",
     "Apuntes/2. Enumeración/873 - Rsync.md",
     "Apuntes/2. Enumeración/8443 - Kubernetes.md",
-    "Apuntes/2. Enumeración/80,433 - HTTP-HTTPS.md",
     "Apuntes/2. Enumeración",
     "Apuntes/1. Reconocimiento",
     "Apuntes",
