@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/1. Reconocimiento/OSINT.md",
+                "file": "Writeups/DockerLabs -DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/1. Reconocimiento/OSINT.md",
+                "file": "Writeups/DockerLabs -DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/1. Reconocimiento/OSINT.md",
+                "file": "Writeups/DockerLabs -DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/1. Reconocimiento/OSINT.md"
+                "file": "Writeups/DockerLabs -DockerLabs.md"
               }
             }
           }
@@ -146,8 +146,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "344eb1fe36354112",
+  "active": "2d2e973434476778",
   "lastOpenFiles": [
+    "Writeups/assets/rootDockerLabs.png",
+    "Pasted image 20240527104940.png",
+    "Writeups/assets/exitophar.png",
+    "Writeups/DockerLabs -DockerLabs.md",
+    "Writeups/assets/phardockerlabs.png",
+    "Writeups/assets/nozipdockerlabs.png",
+    "Writeups/assets/machinedockerupload.png",
+    "Writeups/assets/dockeruploads.png",
+    "Writeups/assets/dockerlabsweb.png",
+    "Writeups/BreackMySSH - DockerLabs.md",
+    "Apuntes/1. Reconocimiento/OSINT.md",
     "Writeups/-Pn - DockerLabs.md",
     "Apuntes/5. Escalada privilegios/Windows.md",
     "Apuntes/5. Escalada privilegios/Linux.md",
@@ -174,23 +185,12 @@
     "Apuntes/2. Enumeración/80,433 - HTTP-HTTPS.md",
     "Apuntes/2. Enumeración/6379 - REDIS.md",
     "Apuntes/2. Enumeración/50051 - gRCP Google.md",
-    "Apuntes/2. Enumeración/4555 - RSIP.md",
-    "Apuntes/2. Enumeración/389,636 - TCP - IDAP-IDAPSSL.md",
-    "Apuntes/2. Enumeración/3389 - RDP.md",
-    "Apuntes/2. Enumeración/3306 - TCP MySQL Server.md",
     "Apuntes/2. Enumeración",
     "Apuntes/1. Reconocimiento",
     "Apuntes",
     "Writeups/assets/rootPn.png",
     "Writeups/assets/newdortomcat.png",
     "Writeups/assets/revShellomcat.png",
-    "Writeups/assets/tomcatuipn.png",
-    "Writeups/assets/tomcatlogin.png",
-    "Writeups/assets/tomactpn.png",
-    "Writeups/assets/rootWhereIsMyShell.png",
-    "Writeups/assets/parameterDir.png",
-    "Writeups/assets/warningShell.png",
-    "Writeups/assets/tmpIngls.png",
     "CiberApuntes/Writeups",
     "CiberApuntes/Img",
     "CiberApuntes/EJPT/5. Escalada privilegios",
