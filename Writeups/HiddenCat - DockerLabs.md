@@ -179,7 +179,7 @@ jerry@3349dee43bec:~$ find / -perm -4000 2>/dev/null
 
 Despues de enumerar los permisos sudo sin éxito, enumero los suid y veo que tenemos suid de perl y python.
 
-Intente primero con perl en un comando de gtfobins sin éxito:
+Intente primero con perl en un comando de [GTFOBINS](https://gtfobins.github.io/#) sin éxito:
 
 ```bash
 jerry@3349dee43bec:~$ /usr/bin/perl -e 'exec "/bin/sh";'
@@ -203,7 +203,7 @@ Insecure $ENV{PATH} while running setuid at -e line 1.
 jerry@3349dee43bec:~$
 ```
 
-Al darme este error de variables de entorno sin configurar intente antes usar el suid de python, a ver si no me daba problemas antes de profundizar mas en perl y me dio ya el acceso root:
+Al darme este error de variables de entorno sin configurar intente antes usar el [SUID de python](https://gtfobins.github.io/gtfobins/python/#suid), a ver si no me daba problemas antes de profundizar mas en perl y me dio ya el acceso root:
 
 ![rootHiddenCat.png](assets/rootHiddenCat.png)
 
