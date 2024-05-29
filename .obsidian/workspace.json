@@ -11,15 +11,26 @@
             "id": "222d559c1ce522ee",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Writeups/assets/passwdverdejo.png"
+              }
+            }
+          },
+          {
+            "id": "3d324d51ef5a3b4d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/ChocolateLovers - DockerLabs.md",
+                "file": "Writeups/Verdejo - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"EJPT/\" ",
+                "query": "id_rsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/ChocolateLovers - DockerLabs.md",
+                "file": "Writeups/Verdejo - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/ChocolateLovers - DockerLabs.md",
+                "file": "Writeups/Verdejo - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/ChocolateLovers - DockerLabs.md"
+                "file": "Writeups/Verdejo - DockerLabs.md"
               }
             }
           }
@@ -148,34 +159,35 @@
   },
   "active": "2d2e973434476778",
   "lastOpenFiles": [
+    "Writeups/assets/rootVerdejo.png",
+    "Writeups/assets/sstiverdejo.png",
+    "Writeups/assets/passwdverdejo.png",
+    "Writeups/assets/xssfuncionaverdejo.png",
+    "Writeups/assets/xssverdejo.png",
+    "Writeups/assets/holaverdejo.png",
+    "Writeups/assets/formxssverdejo.png",
+    "Writeups/Verdejo - DockerLabs.md",
+    "Writeups/Basic Pentesting - TRYHACKME.md",
+    "Writeups/RootMe - TRYHACKME.md",
+    "Writeups/BreackMySSH - DockerLabs.md",
+    "Writeups/Pinguinazo - DockerLabs.md",
+    "Writeups/assets/browebverdejo.png",
+    "Writeups/WalkingCMS - DockerLabls.md",
+    "Writeups/Library - DockerLabs.md",
+    "Writeups/ChocolateLovers - DockerLabs.md",
     "Writeups/assets/rootChocolateLovers.png",
     "Writeups/assets/rootChocolateLovers.png",
     "Writeups/assets/chocolateuser.png",
-    "Writeups/assets/revshellmyimagedirectory.png",
-    "Writeups/assets/diretorylistingchocolate.png",
-    "Writeups/assets/revshellmyimagechocolate.png",
-    "Writeups/assets/revshellnibbleupload.png",
-    "Writeups/assets/versionnibbleblog.png",
-    "Writeups/assets/myimagechocolate.png",
-    "Writeups/ChocolateLovers - DockerLabs.md",
-    "Writeups/Pinguinazo - DockerLabs.md",
     "Writeups/Amor - DockerLabs.md",
-    "Writeups/assets/panelnibbleschocolate.png",
-    "Writeups/assets/loginnibbleschocolate.png",
-    "Writeups/BreackMySSH - DockerLabs.md",
     "Writeups/HiddenCat - DockerLabs.md",
-    "Writeups/Library - DockerLabs.md",
     "Writeups/Move - Dockerlabs.md",
     "Writeups/Picadilly - DockerLabs.md",
-    "Writeups/Basic Pentesting - TRYHACKME.md",
-    "Writeups/RootMe - TRYHACKME.md",
     "Writeups/TakeOver - TRYHACKME.md",
     "Writeups/WhereIsMyShell - DockerLabs.md",
     "Writeups/DockerLabs -DockerLabs.md",
     "Writeups/First Hacking - DockerLabs.md",
     "Writeups/Pickle Rick - TRYHACKME.md",
     "Writeups/Trust - DockerLabs.md",
-    "Writeups/WalkingCMS - DockerLabls.md",
     "Writeups/Injection -DockerLabs.md",
     "Apuntes/1. Reconocimiento/OSINT.md",
     "Writeups/-Pn - DockerLabs.md",
@@ -184,7 +196,6 @@
     "Apuntes/5. Escalada privilegios",
     "Apuntes/4. Exploit/Shells/Web Shell.md",
     "Apuntes/4. Exploit/Shells/Reverse Shells.md",
-    "Apuntes/4. Exploit/Shells/Bind Shell.md",
     "Apuntes/4. Exploit/Shells",
     "Apuntes/4. Exploit",
     "Apuntes/3. Enumeraión CMS",
