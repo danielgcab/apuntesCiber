@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d7b9b2862553c60f",
+        "id": "16f1f60ba833bdc1",
         "type": "tabs",
         "children": [
           {
-            "id": "344eb1fe36354112",
+            "id": "222d559c1ce522ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Picadilly - DockerLabs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c680822c0a193b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/HiddenCat - DockerLabs.md",
+                "file": "Writeups/ChocolateLovers - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/HiddenCat - DockerLabs.md",
+                "file": "Writeups/ChocolateLovers - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/HiddenCat - DockerLabs.md",
+                "file": "Writeups/ChocolateLovers - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/HiddenCat - DockerLabs.md"
+                "file": "Writeups/ChocolateLovers - DockerLabs.md"
               }
             }
           }
@@ -159,25 +146,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c680822c0a193b91",
+  "active": "2d2e973434476778",
   "lastOpenFiles": [
+    "Writeups/assets/rootChocolateLovers.png",
+    "Writeups/assets/chocolateuser.png",
+    "Writeups/assets/revshellmyimagedirectory.png",
+    "Writeups/assets/diretorylistingchocolate.png",
+    "Writeups/assets/revshellmyimagechocolate.png",
+    "Writeups/assets/revshellnibbleupload.png",
+    "Writeups/assets/versionnibbleblog.png",
+    "Writeups/assets/myimagechocolate.png",
+    "Writeups/ChocolateLovers - DockerLabs.md",
+    "Writeups/Pinguinazo - DockerLabs.md",
+    "Writeups/Amor - DockerLabs.md",
+    "Writeups/assets/panelnibbleschocolate.png",
+    "Writeups/assets/loginnibbleschocolate.png",
+    "Writeups/BreackMySSH - DockerLabs.md",
+    "Writeups/HiddenCat - DockerLabs.md",
     "Writeups/Library - DockerLabs.md",
     "Writeups/Move - Dockerlabs.md",
-    "Writeups/assets/rootMove.png",
-    "Writeups/assets/nanopymove.png",
-    "Writeups/assets/exploitgrafanamove.png",
-    "Writeups/assets/grafanamove.png",
-    "Writeups/assets/maintenancemove.png",
     "Writeups/Picadilly - DockerLabs.md",
-    "Writeups/assets/rootAmor.png",
-    "Writeups/assets/rubamor.png",
-    "Writeups/assets/imagenbase64amor.png",
-    "Writeups/assets/serveramor.png",
-    "Writeups/Pinguinazo - DockerLabs.md",
-    "Writeups/HiddenCat - DockerLabs.md",
-    "Writeups/Amor - DockerLabs.md",
-    "Writeups/assets/amorweb.png",
-    "Writeups/BreackMySSH - DockerLabs.md",
     "Writeups/Basic Pentesting - TRYHACKME.md",
     "Writeups/RootMe - TRYHACKME.md",
     "Writeups/TakeOver - TRYHACKME.md",
@@ -197,7 +185,6 @@
     "Apuntes/4. Exploit/Shells/Reverse Shells.md",
     "Apuntes/4. Exploit/Shells/Bind Shell.md",
     "Apuntes/4. Exploit/Shells",
-    "Apuntes/4. Exploit/Metasploit.md",
     "Apuntes/4. Exploit",
     "Apuntes/3. Enumeraión CMS",
     "Apuntes/2. Enumeración",
