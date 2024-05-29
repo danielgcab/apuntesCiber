@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/Verdejo - DockerLabs.md",
+                "file": "Writeups/AguaDeMayo - DockerLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "id_rsa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/Verdejo - DockerLabs.md",
+                "file": "Writeups/AguaDeMayo - DockerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/Verdejo - DockerLabs.md",
+                "file": "Writeups/AguaDeMayo - DockerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writeups/Verdejo - DockerLabs.md"
+                "file": "Writeups/AguaDeMayo - DockerLabs.md"
               }
             }
           }
@@ -157,33 +157,33 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d2e973434476778",
+  "active": "3d324d51ef5a3b4d",
   "lastOpenFiles": [
+    "Writeups/assets/rootAguaDeMayo.png",
+    "Writeups/assets/decodebrainfuck.png",
+    "Writeups/assets/googlebrainfuck.png",
+    "Writeups/assets/sourcecodeagua.png",
+    "Writeups/assets/listimageagua.png",
+    "Writeups/AguaDeMayo - DockerLabs.md",
+    "Writeups/WhereIsMyShell - DockerLabs.md",
+    "Writeups/Amor - DockerLabs.md",
+    "Writeups/Verdejo - DockerLabs.md",
     "Writeups/assets/rootVerdejo.png",
     "Writeups/assets/sstiverdejo.png",
     "Writeups/assets/passwdverdejo.png",
     "Writeups/assets/xssfuncionaverdejo.png",
     "Writeups/assets/xssverdejo.png",
-    "Writeups/assets/holaverdejo.png",
-    "Writeups/assets/formxssverdejo.png",
-    "Writeups/Verdejo - DockerLabs.md",
     "Writeups/Basic Pentesting - TRYHACKME.md",
     "Writeups/RootMe - TRYHACKME.md",
     "Writeups/BreackMySSH - DockerLabs.md",
     "Writeups/Pinguinazo - DockerLabs.md",
-    "Writeups/assets/browebverdejo.png",
     "Writeups/WalkingCMS - DockerLabls.md",
     "Writeups/Library - DockerLabs.md",
     "Writeups/ChocolateLovers - DockerLabs.md",
-    "Writeups/assets/rootChocolateLovers.png",
-    "Writeups/assets/rootChocolateLovers.png",
-    "Writeups/assets/chocolateuser.png",
-    "Writeups/Amor - DockerLabs.md",
     "Writeups/HiddenCat - DockerLabs.md",
     "Writeups/Move - Dockerlabs.md",
     "Writeups/Picadilly - DockerLabs.md",
     "Writeups/TakeOver - TRYHACKME.md",
-    "Writeups/WhereIsMyShell - DockerLabs.md",
     "Writeups/DockerLabs -DockerLabs.md",
     "Writeups/First Hacking - DockerLabs.md",
     "Writeups/Pickle Rick - TRYHACKME.md",
@@ -195,7 +195,6 @@
     "Apuntes/5. Escalada privilegios/Linux.md",
     "Apuntes/5. Escalada privilegios",
     "Apuntes/4. Exploit/Shells/Web Shell.md",
-    "Apuntes/4. Exploit/Shells/Reverse Shells.md",
     "Apuntes/4. Exploit/Shells",
     "Apuntes/4. Exploit",
     "Apuntes/3. Enumeraión CMS",
