@@ -1,7 +1,7 @@
 
 Port forwarding es una técnica que nos permite redirigir una solicitud de comunicación desde un puerto hacia otro. Esta técnica utiliza TCP como la capa principal de comunicación para proporcionar interacción en el puerto redirigido. Sin embargo, es posible usar diferentes protocolos de capa de aplicación como SSH, o incluso SOCKS (que no pertenece a la capa de aplicación), para encapsular el tráfico redirigido. Esto puede ser útil para sortear firewalls y aprovechar servicios existentes en un host comprometido para moverse hacia otras redes.
 
-![portForwarding.png](img/portForwarding.png)
+![portForwarding.png](../img/portForwarding.png)
 
 ## Escaneo objetivo a pivotar
 ``
@@ -114,7 +114,7 @@ SOCKS, que significa Socket Secure, es un protocolo que facilita la comunicació
 
 Esta técnica se utiliza a menudo para eludir las restricciones impuestas por firewalls, permitiendo que una entidad externa bypass el firewall y acceda a un servicio dentro del entorno protegido. Otro beneficio de usar un proxy SOCKS para pivotar y reenviar datos es que los proxies SOCKS pueden crear una ruta hacia un servidor externo desde redes NAT. Actualmente, existen dos tipos de proxies SOCKS: SOCKS4 y SOCKS5. SOCKS4 no ofrece autenticación ni soporte para UDP, mientras que SOCKS5 sí proporciona estas características. Vamos a considerar un ejemplo con la imagen a continuación, donde tenemos una red NAT con el rango 172.16.5.0/23, a la cual no podemos acceder directamente.
 
-![socks.png](img/socks.png)
+![socks.png](../img/socks.png)
 
 En la imagen mencionada, el host atacante inicia el cliente SSH y solicita al servidor SSH que le permita enviar datos TCP a través del socket SSH. El servidor SSH responde con un acuse de recibo, y luego el cliente SSH comienza a escuchar en `localhost:9050`. Cualquier dato que envíes a este puerto será retransmitido a toda la red `172.16.5.0/23` a través de SSH. Podemos usar el siguiente comando para realizar este port forwarding dinámico.
 
