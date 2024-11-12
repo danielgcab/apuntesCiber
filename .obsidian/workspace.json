@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "44c03652048b8217",
+        "id": "14644e1dbab5b971",
         "type": "tabs",
         "children": [
           {
-            "id": "460edf5b4da03887",
+            "id": "01ac5c98d39ea3db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PenetrationTesterHTB/Enumeración con Nmap/8. Rendimiento Nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "8. Rendimiento Nmap"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "PenetrationTesterHTB/Enumeración con Nmap/8. Rendimiento Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 8. Rendimiento Nmap"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "PenetrationTesterHTB/Enumeración con Nmap/8. Rendimiento Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 8. Rendimiento Nmap"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "PenetrationTesterHTB/Enumeración con Nmap/8. Rendimiento Nmap.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 8. Rendimiento Nmap"
             }
           }
         ]
@@ -162,8 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d2e973434476778",
+  "active": "01ac5c98d39ea3db",
   "lastOpenFiles": [
+    "PenetrationTesterHTB/Enumeración con Nmap/7. Nmap Scripting Engine.md",
+    "PenetrationTesterHTB/Enumeración con Nmap/6. Service Enumeration.md",
+    "PenetrationTesterHTB/Enumeración con Nmap/5. Guardar Resultados.md",
+    "PenetrationTesterHTB/Enumeración con Nmap/4. Host and Port Scanning.md",
+    "PenetrationTesterHTB/Enumeración con Nmap/3. Host Discovery.md",
+    "PenetrationTesterHTB/Enumeración con Nmap/1. Enumeración.md",
+    "CPTS.md",
+    "PenetrationTesterHTB/Enumeración con Nmap/8. Rendimiento Nmap.md",
+    "PenetrationTesterHTB/Enumeración con Nmap/2. Introducción a Nmap.md",
+    "Writeups/-Pn - DockerLabs.md",
+    "PenetrationTesterHTB/assets/nmapReport.png",
+    "PenetrationTesterHTB/assets",
+    "README.md",
     "Apuntes/5. Escalada privilegios/Windows.md",
     "Apuntes/4. Exploit/Metasploit.md",
     "Apuntes/4. Exploit/File Transfer.md",
@@ -179,17 +192,6 @@
     "Apuntes/3. Enumeraión CMS/ColdFusion Administrator.md",
     "Apuntes/2. Enumeración/80,433 - HTTP-HTTPS.md",
     "Apuntes/2. Enumeración/22 - SSH - SFTP.md",
-    "Apuntes/2. Enumeración/21 - FTP.md",
-    "Apuntes/1. Reconocimiento/Subdominios.md",
-    "Apuntes/1. Reconocimiento/Reconocimiento pasivo.md",
-    "Apuntes/1. Reconocimiento/Reconocimiento activo.md",
-    "Apuntes/1. Reconocimiento/OSINT.md",
-    "PenetrationTesterHTB/Enumeración con Nmap/4. Host and Port Scanning.md",
-    "PenetrationTesterHTB/Enumeración con Nmap/3. Host Discovery.md",
-    "PenetrationTesterHTB/Enumeración con Nmap/2. Introducción a Nmap.md",
-    "PenetrationTesterHTB/Enumeración con Nmap/1. Enumeración.md",
-    "Scanning.md",
-    "Apuntes/2. Enumeración/50051 - gRCP Google.md",
     "PenetrationTesterHTB/Enumeración con Nmap",
     "PenetrationTesterHTB",
     "Writeups/assets/passwdverdejo.png",
@@ -201,7 +203,6 @@
     "Writeups/assets/googlebrainfuck.png",
     "Writeups/assets/sourcecodeagua.png",
     "Writeups/assets/listimageagua.png",
-    "Writeups/assets/rootVerdejo.png",
     "Apuntes/5. Escalada privilegios",
     "Apuntes/4. Exploit/Shells",
     "Apuntes/4. Exploit",
@@ -209,7 +210,6 @@
     "Apuntes/2. Enumeración",
     "Apuntes/1. Reconocimiento",
     "Apuntes",
-    "CiberApuntes/Writeups",
     "Sin título.canvas"
   ]
 }
