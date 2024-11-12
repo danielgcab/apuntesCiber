@@ -1,3 +1,4 @@
+[[Apuntes]]
 
 #recon #pasive
 ## ¿Qué es Reconocimiento Pasivo?

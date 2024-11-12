@@ -1,3 +1,4 @@
+[[Apuntes]][[Escalada Privilegios]]
 ## Enumeración básica
 
 ``` bash

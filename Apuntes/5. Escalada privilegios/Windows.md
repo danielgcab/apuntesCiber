@@ -1,3 +1,4 @@
+[[Apuntes]][[Escalada Privilegios]]
 ## Usuarios Windows
 
 Unas tablas con los diferentes usuarios windows que nos podemos enfrentar en la esacala con sus privilegios explicados.

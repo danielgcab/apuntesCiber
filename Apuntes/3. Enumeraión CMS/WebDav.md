@@ -1,3 +1,4 @@
+[[Apuntes]]
 ## ¿Qué es y cómo funciona?
 
 WebDAV es un protocolo que nos permite **guardar archivos, editarlos, moverlos y compartirlos** en un servidor web, no necesitaremos utilizar otros protocolos de intercambio de archivos en red local o Internet, como Samba, FTP o NFS.

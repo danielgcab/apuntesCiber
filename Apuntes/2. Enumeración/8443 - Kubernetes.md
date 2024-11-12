@@ -1,3 +1,5 @@
+[[Apuntes]]
+
 Si has accedido a un pod puedes sacar información para saltar al cluster, obtener tokens y archivos de configuración, a continuación muestro que rutas son:
 
 - /`run/secrets/kubernetes.io/serviceccount`

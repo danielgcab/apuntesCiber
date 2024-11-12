@@ -1,3 +1,5 @@
+[[Apuntes]]
+
 SMB (Server Message Block) es un protocolo cliente-servidor que controla el acceso a archivos y directorios enteros, así como a otros recursos de la red, como impresoras, routers o interfaces comparti
 
 ### Comandos básicos

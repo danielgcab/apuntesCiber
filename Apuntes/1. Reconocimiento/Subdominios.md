@@ -1,3 +1,4 @@
+[[Apuntes]]
 ## Check List
 
 1. Inspeccionar los certificados

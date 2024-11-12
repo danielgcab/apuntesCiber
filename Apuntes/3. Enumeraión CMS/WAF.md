@@ -1,3 +1,4 @@
+[[Apuntes]]
 **¿Qué es un WAF?** Un WAF (Web Application Firewall) es una herramienta de seguridad diseñada específicamente para proteger las aplicaciones web de ataques maliciosos. Funciona como una barrera entre el tráfico de Internet y la aplicación web, filtrando y monitoreando las solicitudes HTTP/HTTPS que llegan al servidor web.
 
 **Funciones principales de un WAF:**

@@ -1,3 +1,4 @@
+[[Apuntes]]
 ## ¿Qué es y como funciona?
 
 Coldfusion es una plataforma de desarrollo rápido de aplicaciones web que usa el lenguaje de programación CFML. En este aspecto, es un producto similar a ASP, JSP o PHP. ColdFusion es una herramienta que corre en forma concurrente con la mayoría de los servidores web de Windows, Mac OS X, Linux y Solaris

@@ -1,3 +1,4 @@
+[[Writeups]]
 Vamos con la maquina takeover de tryhackme, os muestro el enunciado que nos da la web antes de empezar la maquina:
 
 Hello there,  

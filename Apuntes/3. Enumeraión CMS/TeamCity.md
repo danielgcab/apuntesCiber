@@ -1,3 +1,4 @@
+[[Apuntes]]
 ## ¿Qué es y cómo funciona?
 
 TeamCity es un servidor de gestión de compilación e integración continua de JetBrains. Se lanzó por primera vez el 2 de octubre de 2006 y es un software comercial con licencia patentada: hay disponibles una licencia freemium para hasta 100 configuraciones de compilación y tres licencias gratuitas de Build Agent.

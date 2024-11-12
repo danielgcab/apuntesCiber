@@ -1,3 +1,4 @@
+[[Apuntes]]
 ## ¿Qué es y cómo funciona?
 
 Drupal es un sistema de gestión de contenidos (CMS, por sus siglas en inglés) de código abierto y gratuito que se utiliza para construir sitios web y aplicaciones en línea. Es una de las plataformas CMS más populares en el mundo, junto con WordPress y Joomla, y se utiliza en todo tipo de proyectos, desde sitios web de pequeñas empresas hasta grandes portales gubernamentales y corporativos.

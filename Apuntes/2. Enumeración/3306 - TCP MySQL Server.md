@@ -1,3 +1,4 @@
+[[Apuntes]]
 MySQL es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation
 
 ## Nmap scripts

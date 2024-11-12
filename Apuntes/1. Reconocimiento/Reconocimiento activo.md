@@ -1,3 +1,5 @@
+[[Apuntes]]
+
 #recon #active 
 
 **¿Qué es Reconocimiento Activo?**

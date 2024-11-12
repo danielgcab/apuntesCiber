@@ -1,3 +1,4 @@
+[[Apuntes]]
 ## ¿Qué es y cómo funciona?
 
 Redis es un motor de base de datos en memoria, basado en el almacenamiento en tablas de hashes pero que opcionalmente puede ser usada como una base de datos durable o persistente. Está escrito en ANSI C por Salvatore Sanfilippo, quien es patrocinado por Redis Labs

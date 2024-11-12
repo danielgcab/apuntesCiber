@@ -1,3 +1,5 @@
+[[Apuntes]]
+
 RPC es un sistema de llamada a procedimiento remoto de código abierto desarrollado inicialmente en Google. Utiliza como transporte HTTP/2 y Protocol Buffers como lenguaje de descripción de interfaz.
 
 Para poder conectarte a este servicio necesitaras una herramienta de github la cuál te permite interactuar con los servidores de gRPC a través del navegador. Es algo así como [Postman](https://www.getpostman.com/) , pero para las API de gRPC en lugar de REST.

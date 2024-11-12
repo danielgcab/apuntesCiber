@@ -1,3 +1,4 @@
+[[Writeups]]
 #Writeups #VeryEasy #DockerLabs
 
 Vamos con la primera maquina de DockerLabs, una web reciente donde podemos ejecutar las maquinas en local con docker y que sea todo mucho mas rápido y optimizado.

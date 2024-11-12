@@ -1,4 +1,4 @@
-
+[[Apuntes]]
 Port forwarding es una técnica que nos permite redirigir una solicitud de comunicación desde un puerto hacia otro. Esta técnica utiliza TCP como la capa principal de comunicación para proporcionar interacción en el puerto redirigido. Sin embargo, es posible usar diferentes protocolos de capa de aplicación como SSH, o incluso SOCKS (que no pertenece a la capa de aplicación), para encapsular el tráfico redirigido. Esto puede ser útil para sortear firewalls y aprovechar servicios existentes en un host comprometido para moverse hacia otras redes.
 
 ![portForwarding.png](../img/portForwarding.png)

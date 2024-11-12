@@ -1,4 +1,6 @@
-#recon #osint
+[[Apuntes]]
+
+ #recon #osint
 
 -------------
 ## Google Hacking/Dorking

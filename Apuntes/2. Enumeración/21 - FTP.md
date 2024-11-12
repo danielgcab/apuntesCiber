@@ -1,3 +1,5 @@
+[[Apuntes]]
+
 El Protocolo de transferencia de archivos es un protocolo de red para la transferencia de archivos entre sistemas conectados a una red TCP, basado en la arquitectura cliente-servidor.
 
 ## Check List

@@ -1,3 +1,4 @@
+[[Apuntes]]
 ## ¿Qué es y cómo funciona?
 
 Joomla es un sistema de gestión de contenidos (CMS, por sus siglas en inglés) de código abierto y gratuito, utilizado para la creación y gestión de sitios web y aplicaciones en línea. Fue lanzado por primera vez en 2005 y se ha convertido en una de las plataformas CMS más populares en el mundo, junto con WordPress y Drupal.

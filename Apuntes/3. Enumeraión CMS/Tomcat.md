@@ -1,3 +1,4 @@
+[[Apuntes]]
 ## Credenciales por defecto
 
 Probar estas credenciales en el `/manager/html` esta ruta tiene dentro una `/upload` la cual se puede subir archivos pero esta protegido por HTTP auth.

@@ -1,3 +1,4 @@
+[[Apuntes]]
 ## ¿Qué es y cómo funciona?
 
 Magento es un sistema de gestión de contenidos (CMS, por sus siglas en inglés) de comercio electrónico de código abierto que se utiliza para crear y gestionar tiendas en línea. Fue lanzado en 2008 y es uno de los CMS de comercio electrónico más populares en el mundo.

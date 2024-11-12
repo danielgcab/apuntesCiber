@@ -1,3 +1,4 @@
+[[Apuntes]]
 ## ¿Qué es y cómo funciona?
 
 WordPress es un sistema de gestión de contenidos (CMS, por sus siglas en inglés) de código abierto que se utiliza para crear y gestionar sitios web y blogs. Es una de las plataformas de CMS más populares en el mundo, y se utiliza para todo tipo de sitios web, desde blogs personales hasta sitios web empresariales y tiendas en línea.
